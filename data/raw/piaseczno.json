@@ -1,0 +1,470 @@
+[
+  {
+    "name": ".LABA",
+    "mapsUrl": "https://www.google.com/maps/place/.LABA/data=!4m7!3m6!1s0x47193348c4036c41:0xd9b36eb87a64628c!8m2!3d52.184567!4d21.011959!16s%2Fg%2F11twdwcn_p!19sChIJQWwDxEgzGUcRjGJkerhus9k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "L’Osteria Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/L%E2%80%99Osteria+Piaseczno/data=!4m7!3m6!1s0x47192f004fe135d3:0x601ab3b0631a1e14!8m2!3d52.1010108!4d21.0196147!16s%2Fg%2F11y6b8x50z!19sChIJ0zXhTwAvGUcRFB4aY7CzGmA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Pierogów Dwóch",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Pierog%C3%B3w+Dw%C3%B3ch/data=!4m7!3m6!1s0x47192f994bcfbd8d:0xc2d89299dd272790!8m2!3d52.0775524!4d21.0363879!16s%2Fg%2F11pyc5p3vh!19sChIJjb3PS5kvGUcRkCcn3ZmS2MI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "The Efendi",
+    "mapsUrl": "https://www.google.com/maps/place/The+Efendi/data=!4m7!3m6!1s0x47192d86df37d34d:0x43bb300a5567ec10!8m2!3d52.1029236!4d21.0194532!16s%2Fg%2F11wb3hs55z!19sChIJTdM334YtGUcREOxnVQowu0M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Szara Eminencja",
+    "mapsUrl": "https://www.google.com/maps/place/Szara+Eminencja/data=!4m7!3m6!1s0x47192e4627c0e8f9:0xa07075daae15147d!8m2!3d52.0687267!4d21.024725!16s%2Fg%2F11cffrfh3!19sChIJ-ejAJ0YuGUcRfRQVrtp1cKA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Baranek",
+    "mapsUrl": "https://www.google.com/maps/place/Baranek/data=!4m7!3m6!1s0x47192fa2c5fd3a23:0x47c10add1e1f472f!8m2!3d52.0759011!4d21.0211778!16s%2Fg%2F11fl46jdq9!19sChIJIzr9xaIvGUcRL0cfHt0KwUc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Trattoria Cucina Povera",
+    "mapsUrl": "https://www.google.com/maps/place/Trattoria+Cucina+Povera/data=!4m7!3m6!1s0x47192f6924ddf3c5:0xae7e535de79e7ab3!8m2!3d52.0237503!4d21.0454178!16s%2Fg%2F11cks3hhfn!19sChIJxfPdJGkvGUcRs3qe511Tfq4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Thai House",
+    "mapsUrl": "https://www.google.com/maps/place/Thai+House/data=!4m7!3m6!1s0x47192fccc84cb307:0xf631ecc84c0e9a06!8m2!3d52.0720387!4d21.0282007!16s%2Fg%2F11wmhnmr7s!19sChIJB7NMyMwvGUcRBpoOTMjsMfY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wykrowista Buła",
+    "mapsUrl": "https://www.google.com/maps/place/Wykrowista+Bu%C5%82a/data=!4m7!3m6!1s0x47192f48a62cb99b:0xd622f9f1834d722a!8m2!3d52.0936237!4d21.0183592!16s%2Fg%2F11gy15l34d!19sChIJm7kspkgvGUcRKnJNg_H5ItY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "La Casa Bistro & Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/La+Casa+Bistro+%26+Cafe/data=!4m7!3m6!1s0x47192ff95b9f52ed:0x372517282c880b7f!8m2!3d52.0721187!4d21.0227212!16s%2Fg%2F11j0_dr6d3!19sChIJ7VKfW_kvGUcRfwuILCgXJTc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KRAFTBURGER",
+    "mapsUrl": "https://www.google.com/maps/place/KRAFTBURGER/data=!4m7!3m6!1s0x47192f56778ab65b:0x46d994fd27197f61!8m2!3d52.0814447!4d21.0459527!16s%2Fg%2F11kq7w6zz3!19sChIJW7aKd1YvGUcRYX8ZJ_2U2UY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Szamma mia",
+    "mapsUrl": "https://www.google.com/maps/place/Szamma+mia/data=!4m7!3m6!1s0x47192f508ccda599:0x6098b28055e3d738!8m2!3d52.0744085!4d21.0281121!16s%2Fg%2F11sc_xxb5c!19sChIJmaXNjFAvGUcRONfjVYCymGA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Spiżarnia u Dziuni",
+    "mapsUrl": "https://www.google.com/maps/place/Spi%C5%BCarnia+u+Dziuni/data=!4m7!3m6!1s0x47192f053852cfd7:0xf7da4691e14d2ef9!8m2!3d52.0828203!4d21.0238985!16s%2Fg%2F11s9hj86d0!19sChIJ189SOAUvGUcR-S5N4ZFG2vc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Viet Point - San Park Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Viet+Point+-+San+Park+Piaseczno/data=!4m7!3m6!1s0x47192f13466191a1:0xcb7af821ecb43bfc!8m2!3d52.1011687!4d21.0194839!16s%2Fg%2F11lzqz3yhr!19sChIJoZFhRhMvGUcR_Du07CH4ess?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Indian Tadka",
+    "mapsUrl": "https://www.google.com/maps/place/Indian+Tadka/data=!4m7!3m6!1s0x47192ff9b04916a7:0xe3c0698646711f7b!8m2!3d52.096186!4d21.0194309!16s%2Fg%2F11tctyjy0t!19sChIJpxZJsPkvGUcRex9xRoZpwOM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Curry King Restauracja Indyjska, Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Curry+King+Restauracja+Indyjska,+Piaseczno/data=!4m7!3m6!1s0x47192e3534863ce1:0x1c617e116c00254d!8m2!3d52.060404!4d21.0100114!16s%2Fg%2F1pzt2_fm3!19sChIJ4TyGNDUuGUcRTSUAbBF-YRw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gaumarjos Restauracja Gruzińska",
+    "mapsUrl": "https://www.google.com/maps/place/Gaumarjos+Restauracja+Gruzi%C5%84ska/data=!4m7!3m6!1s0x47192f5e299bbb87:0xb0ec982e0c083964!8m2!3d52.0715186!4d21.0276594!16s%2Fg%2F11gntr9gkx!19sChIJh7ubKV4vGUcRZDkIDC6Y7LA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Odjazd",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Odjazd/data=!4m7!3m6!1s0x47192e47a69ac107:0x88395d1b463bf159!8m2!3d52.0708424!4d21.0239932!16s%2Fg%2F1tkml8sz!19sChIJB8GapkcuGUcRWfE7RhtdOYg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Brasserie Selgros Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Brasserie+Selgros+Piaseczno/data=!4m7!3m6!1s0x47192e15bc80b4bd:0x4768e2e3a9a7286b!8m2!3d52.1049999!4d21.0203807!16s%2Fg%2F11f3xqb4zy!19sChIJvbSAvBUuGUcRayinqePiaEc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wokinn",
+    "mapsUrl": "https://www.google.com/maps/place/Wokinn/data=!4m7!3m6!1s0x47192f8e2eedc7d1:0xdad9ab259addc385!8m2!3d52.095887!4d21.0313179!16s%2Fg%2F11vyrjc0vj!19sChIJ0cftLo4vGUcRhcPdmiWr2do?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Lunch Story",
+    "mapsUrl": "https://www.google.com/maps/place/Lunch+Story/data=!4m7!3m6!1s0x47192f7dc66ba901:0x4c04a3fc1fa794c3!8m2!3d52.0839347!4d21.0226821!16s%2Fg%2F11f710qj8d!19sChIJAalrxn0vGUcRw5SnH_yjBEw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Przystanek ZAPIEKANKI",
+    "mapsUrl": "https://www.google.com/maps/place/Przystanek+ZAPIEKANKI/data=!4m7!3m6!1s0x47192e15f6f616cd:0xe8011e9f6adf9db4!8m2!3d52.0797369!4d21.0211791!16s%2Fg%2F11dzw6jfxc!19sChIJzRb29hUuGUcRtJ3fap8eAeg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Star Kebab & Grill, piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Star+Kebab+%26+Grill,+piaseczno/data=!4m7!3m6!1s0x47192f6238874c89:0xd1591ce9bf6a1204!8m2!3d52.0772066!4d21.0262445!16s%2Fg%2F11ytd0l7_c!19sChIJiUyHOGIvGUcRBBJqv-kcWdE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BALKAN KEBAB PIASECZNO",
+    "mapsUrl": "https://www.google.com/maps/place/BALKAN+KEBAB+PIASECZNO/data=!4m7!3m6!1s0x47192fd0ccf1f021:0x146bb09db6cb9a00!8m2!3d52.0742182!4d21.021802!16s%2Fg%2F11yy2_srwc!19sChIJIfDxzNAvGUcRAJrLtp2waxQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kuchnia ze Smakiem",
+    "mapsUrl": "https://www.google.com/maps/place/Kuchnia+ze+Smakiem/data=!4m7!3m6!1s0x47192e0ea39b43fb:0xfe69c29f26444533!8m2!3d52.0942159!4d21.0299309!16s%2Fg%2F11bzzy2hq5!19sChIJ-0Obow4uGUcRM0VEJp_Caf4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Eatstory Bistro i Cukiernia",
+    "mapsUrl": "https://www.google.com/maps/place/Eatstory+Bistro+i+Cukiernia/data=!4m7!3m6!1s0x47192f50cdf4bac7:0x785dea82f47dea48!8m2!3d52.097292!4d21.0183156!16s%2Fg%2F11gy63c4jx!19sChIJx7r0zVAvGUcRSOp99ILqXXg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "WOK Asian Food - Sushi i Kuchnia Azjatycka",
+    "mapsUrl": "https://www.google.com/maps/place/WOK+Asian+Food+-+Sushi+i+Kuchnia+Azjatycka/data=!4m7!3m6!1s0x47192fbd8d7ad601:0xb10e1ac0d8fd7214!8m2!3d52.0526022!4d21.0004822!16s%2Fg%2F11r9vq3pj5!19sChIJAdZ6jb0vGUcRFHL92MAaDrE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kurczak z Rożna",
+    "mapsUrl": "https://www.google.com/maps/place/Kurczak+z+Ro%C5%BCna/data=!4m7!3m6!1s0x47192f16b3e54689:0x5d885acf06c9ad0a!8m2!3d52.0538279!4d21.0065319!16s%2Fg%2F11nf_5m1cf!19sChIJiUblsxYvGUcRCq3JBs9aiF0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Titanizza",
+    "mapsUrl": "https://www.google.com/maps/place/Titanizza/data=!4m7!3m6!1s0x47192fececb98113:0x957324658fb5e1b8!8m2!3d52.079766!4d21.0168608!16s%2Fg%2F11t2_7qkg2!19sChIJE4G57OwvGUcRuOG1j2Ukc5U?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab I Nie Tylko",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+I+Nie+Tylko/data=!4m7!3m6!1s0x47192f39874c3b93:0x13e77ceccd402961!8m2!3d52.068245!4d21.0281504!16s%2Fg%2F11vb8f9gsb!19sChIJkztMhzkvGUcRYSlAzex85xM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Jadalnia - Cafe | Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Jadalnia+-+Cafe+%7C+Piaseczno/data=!4m7!3m6!1s0x47192e6e4fc70efd:0x5e7834b825fcbaea!8m2!3d52.085078!4d21.044299!16s%2Fg%2F1ptwnsp0h!19sChIJ_Q7HT24uGUcR6rr8Jbg0eF4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "J&Z Burger",
+    "mapsUrl": "https://www.google.com/maps/place/J%26Z+Burger/data=!4m7!3m6!1s0x47192f417516d5b1:0x17c0d30fd1736d75!8m2!3d52.0634663!4d21.0243519!16s%2Fg%2F11l1p2rmms!19sChIJsdUWdUEvGUcRdW1z0Q_TwBc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja McDonald's",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+McDonald%27s/data=!4m7!3m6!1s0x47192e160f4a7a65:0x5669ca36add9636d!8m2!3d52.0817499!4d21.0196148!16s%2Fg%2F11g8k5ypyb!19sChIJZXpKDxYuGUcRbWPZrTbKaVY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kawiarnia Naleśnikarnia Fryderyk",
+    "mapsUrl": "https://www.google.com/maps/place/Kawiarnia+Nale%C5%9Bnikarnia+Fryderyk/data=!4m7!3m6!1s0x47192e40d9941123:0xeeb356b76639f5f1!8m2!3d52.0742937!4d21.0277014!16s%2Fg%2F11c6lqvrvj!19sChIJIxGU2UAuGUcR8fU5ZrdWs-4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Parnik Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Parnik+Piaseczno/data=!4m7!3m6!1s0x47192fb1430ae6dd:0x6168fb91e5de0cec!8m2!3d52.0994892!4d21.0234151!16s%2Fg%2F11frlflh3v!19sChIJ3eYKQ7EvGUcR7Aze5ZH7aGE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stacja Gołków",
+    "mapsUrl": "https://www.google.com/maps/place/Stacja+Go%C5%82k%C3%B3w/data=!4m7!3m6!1s0x47192fdafcb57f4b:0xae6ac2b825167125!8m2!3d52.0506707!4d20.9878287!16s%2Fg%2F11s7g4tjb3!19sChIJS3-1_NovGUcRJXEWJbjCaq4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Apetyczne Pudełka",
+    "mapsUrl": "https://www.google.com/maps/place/Apetyczne+Pude%C5%82ka/data=!4m7!3m6!1s0x47192f752fba05c7:0x8f1adf6bcbec1337!8m2!3d52.0758941!4d21.0291185!16s%2Fg%2F11ydnt0_qg!19sChIJxwW6L3UvGUcRNxPsy2vfGo8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pierogarnia",
+    "mapsUrl": "https://www.google.com/maps/place/Pierogarnia/data=!4m7!3m6!1s0x47192f818af6cb97:0x52964c2e1380807e!8m2!3d52.0885671!4d21.0482879!16s%2Fg%2F11fqsl6pcy!19sChIJl8v2ioEvGUcRfoCAEy5MllI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Obiady Domowe",
+    "mapsUrl": "https://www.google.com/maps/place/Obiady+Domowe/data=!4m7!3m6!1s0x47192e3f0fb51143:0x57e1dfd980fd7ab6!8m2!3d52.0766868!4d21.0224678!16s%2Fg%2F1q6jbfzlz!19sChIJQxG1Dz8uGUcRtnr9gNnf4Vc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sanpark Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Sanpark+Piaseczno/data=!4m7!3m6!1s0x47192d006b4e0c35:0xa457277ff5d0f9a3!8m2!3d52.1030896!4d21.0209285!16s%2Fg%2F11lnnw9v4j!19sChIJNQxOawAtGUcRo_nQ9X8nV6Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Oruga Sushi – Restauracja Sushi Piaseczno | Sushi na Wynos i z Dostawą",
+    "mapsUrl": "https://www.google.com/maps/place/Oruga+Sushi+%E2%80%93+Restauracja+Sushi+Piaseczno+%7C+Sushi+na+Wynos+i+z+Dostaw%C4%85/data=!4m7!3m6!1s0x47192f006bc2d357:0x6906dc857d4c2380!8m2!3d52.079925!4d21.0235551!16s%2Fg%2F11wrbmprjl!19sChIJV9PCawAvGUcRgCNMfYXcBmk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "L'ora Della Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/L%27ora+Della+Pizza/data=!4m7!3m6!1s0x47192f2b04111809:0x689e16df54abaf65!8m2!3d52.0740834!4d21.0217841!16s%2Fg%2F11rqs3ys70!19sChIJCRgRBCsvGUcRZa-rVN8Wnmg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dhaka Kebab Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Dhaka+Kebab+Piaseczno/data=!4m7!3m6!1s0x471931df76feeedb:0xcb7f77247e26c1c4!8m2!3d52.0823482!4d20.9923739!16s%2Fg%2F11cm1m37l7!19sChIJ2-7-dt8xGUcRxMEmfiR3f8s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Domowy Zakątek",
+    "mapsUrl": "https://www.google.com/maps/place/Domowy+Zak%C4%85tek/data=!4m7!3m6!1s0x47192faa67a7f959:0xd2be3b3c7eba0803!8m2!3d52.0809!4d21.0111139!16s%2Fg%2F11wmlt_bd4!19sChIJWfmnZ6ovGUcRAwi6fjw7vtI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Vita Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Vita+Cafe/data=!4m7!3m6!1s0x47192f5292deeced:0x2a38f15765f23944!8m2!3d52.0866514!4d21.0233487!16s%2Fg%2F11rc7s3hf8!19sChIJ7ezeklIvGUcRRDnyZVfxOCo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Biała Żyrafa",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Bia%C5%82a+%C5%BByrafa/data=!4m7!3m6!1s0x47192fb23d0d49ff:0x1686e4214ce3867f!8m2!3d52.0769288!4d21.0526116!16s%2Fg%2F11j7jkd00g!19sChIJ_0kNPbIvGUcRf4bjTCHkhhY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "RASOI Józefosław Restauracja Indyjska",
+    "mapsUrl": "https://www.google.com/maps/place/RASOI+J%C3%B3zefos%C5%82aw+Restauracja+Indyjska/data=!4m7!3m6!1s0x47192f6c465b6ddb:0xd307878f799ac938!8m2!3d52.0933884!4d21.039437!16s%2Fg%2F11f79ymvjq!19sChIJ221bRmwvGUcROMmaeY-HB9M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Proseco",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Proseco/data=!4m7!3m6!1s0x47192fd652d90d11:0x52195002593f947!8m2!3d52.0802302!4d21.0210448!16s%2Fg%2F11ll5blcg9!19sChIJEQ3ZUtYvGUcRR_mTJQCVIQU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja CORNER",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+CORNER/data=!4m7!3m6!1s0x47192f468cbc0a21:0x784d5f0a395ddabe!8m2!3d52.0630534!4d21.0173449!16s%2Fg%2F11qfh40rv0!19sChIJIQq8jEYvGUcRvtpdOQpfTXg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Saijo Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Saijo+Sushi/data=!4m7!3m6!1s0x47192e735d2fd59d:0x4ae24e4a7450fd0!8m2!3d52.0932391!4d21.0394215!16s%2Fg%2F113gnn9s1!19sChIJndUvXXMuGUcR0A9Fp-QkrgQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Mariano Italiano",
+    "mapsUrl": "https://www.google.com/maps/place/Mariano+Italiano/data=!4m7!3m6!1s0x47192fca88062f15:0x97bf5d5955d6de10!8m2!3d52.0575435!4d21.0093313!16s%2Fg%2F1pv043s5j!19sChIJFS8GiMovGUcREN7WVVldv5c?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Domek Sushi Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Domek+Sushi+Piaseczno/data=!4m7!3m6!1s0x47192f79322c010d:0xa5f62e5630b19a42!8m2!3d52.0788088!4d21.0413598!16s%2Fg%2F11fwtf0yy4!19sChIJDQEsMnkvGUcRQpqxMFYu9qU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Aromat",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Aromat/data=!4m7!3m6!1s0x47192fc4956e2265:0xe5e6c37560bdbeaf!8m2!3d52.0507221!4d20.9957046!16s%2Fg%2F1pv5_nrht!19sChIJZSJulcQvGUcRr769YHXD5uU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pik. Tyrk A.E.",
+    "mapsUrl": "https://www.google.com/maps/place/Pik.+Tyrk+A.E./data=!4m7!3m6!1s0x47192e412f0fa141:0x9d548577b777d91d!8m2!3d52.0740247!4d21.0285456!16s%2Fg%2F1vn_xq7l!19sChIJQaEPL0EuGUcRHdl3t3eFVJ0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Przesłodka - Torty i słodkie stoły Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Przes%C5%82odka+-+Torty+i+s%C5%82odkie+sto%C5%82y+Piaseczno/data=!4m7!3m6!1s0x47192f236ae6ac59:0x1883ee3b00f7aaf0!8m2!3d52.0685984!4d20.9879347!16s%2Fg%2F11t1jyx3b5!19sChIJWazmaiMvGUcR8Kr3ADvugxg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "La Favola Pizzeria & Ristorante",
+    "mapsUrl": "https://www.google.com/maps/place/La+Favola+Pizzeria+%26+Ristorante/data=!4m7!3m6!1s0x471eccad9b1163c1:0x222b11bdde47319f!8m2!3d52.075417!4d21.0298393!16s%2Fg%2F1hc2kvd5b!19sChIJwWMRm63MHkcRnzFH3r0RKyI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restaurację",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracj%C4%99/data=!4m7!3m6!1s0x47192f004c0676ad:0x6e20b0f6d5e7cb9!8m2!3d52.0913728!4d21.0195167!16s%2Fg%2F11ynv4ynqv!19sChIJrXYGTAAvGUcRuXxebQ8L4gY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shahi Kebab & Grill",
+    "mapsUrl": "https://www.google.com/maps/place/Shahi+Kebab+%26+Grill/data=!4m7!3m6!1s0x47192e49ab4da795:0xf0fd70bb5f5a9e96!8m2!3d52.0663946!4d21.0212456!16s%2Fg%2F11cn67_31z!19sChIJladNq0kuGUcRlp5aX7tw_fA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Mistrz Azja",
+    "mapsUrl": "https://www.google.com/maps/place/Mistrz+Azja/data=!4m7!3m6!1s0x47192e69e9245bfd:0x214bd9daef79aafe!8m2!3d52.078261!4d21.0371131!16s%2Fg%2F11clsjq7j3!19sChIJ_Vsk6WkuGUcR_qp579rZSyE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Orientalny\" SAJGONEK PAWILON 4\"",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Orientalny%22+SAJGONEK+PAWILON+4%22/data=!4m7!3m6!1s0x47192f94f49eecc9:0xb084e3785ae3ddf7!8m2!3d52.0761757!4d21.0203825!16s%2Fg%2F1tg_dswp!19sChIJyeye9JQvGUcR993jWnjjhLA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Fontanna Miejska Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Fontanna+Miejska+Piaseczno/data=!4m7!3m6!1s0x47192e40dee8489f:0x7ae262c00579aeff!8m2!3d52.0746294!4d21.0278723!16s%2Fg%2F1jkyhlb8c!19sChIJn0jo3kAuGUcR_655BcBi4no?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sushi Strefa",
+    "mapsUrl": "https://www.google.com/maps/place/Sushi+Strefa/data=!4m7!3m6!1s0x47192e41277446c1:0xdce0741f9478c6a0!8m2!3d52.0778721!4d21.0264078!16s%2Fg%2F11bbyhbxqk!19sChIJwUZ0J0EuGUcRoMZ4lB904Nw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Różana",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+R%C3%B3%C5%BCana/data=!4m7!3m6!1s0x47192fc5c6d37d59:0x897e61b6f12e91c9!8m2!3d52.0786243!4d21.0107205!16s%2Fg%2F11h6djkysj!19sChIJWX3TxsUvGUcRyZEu8bZhfok?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Z koperkiem czy bez?",
+    "mapsUrl": "https://www.google.com/maps/place/Z+koperkiem+czy+bez%3F/data=!4m7!3m6!1s0x47192de4b180ee49:0x601701ff22942ba5!8m2!3d52.1392342!4d21.0597411!16s%2Fg%2F11yhhc8t46!19sChIJSe6AseQtGUcRpSuUIv8BF2A?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar MAI-MAI",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+MAI-MAI/data=!4m7!3m6!1s0x47192e3ff32aeb21:0xcd49c97dcd431c0c!8m2!3d52.0780449!4d21.0258946!16s%2Fg%2F11cn8sb9w5!19sChIJIesq8z8uGUcRDBxDzX3JSc0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Akurat - kurczak z rożna",
+    "mapsUrl": "https://www.google.com/maps/place/Akurat+-+kurczak+z+ro%C5%BCna/data=!4m7!3m6!1s0x47192f7c70ee69f3:0x9e03a6f21e0af819!8m2!3d52.0779771!4d21.0257105!16s%2Fg%2F11l3fpmbdm!19sChIJ82nucHwvGUcRGfgKHvKmA54?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sklep SFD Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Sklep+SFD+Piaseczno/data=!4m7!3m6!1s0x47192f26bedffe6b:0xf6c2f37a3d4d75!8m2!3d52.0698532!4d21.0258568!16s%2Fg%2F11rg0pgxjt!19sChIJa_7fviYvGUcRdU09evPC9gA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab 7 Star",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+7+Star/data=!4m7!3m6!1s0x47192f001c85825d:0xfbfff6314a3a5b60!8m2!3d52.0543693!4d21.0070003!16s%2Fg%2F11vk8km4s9!19sChIJXYKFHAAvGUcRYFs6SjH2__s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Winny Garaż",
+    "mapsUrl": "https://www.google.com/maps/place/Winny+Gara%C5%BC/data=!4m7!3m6!1s0x4719289f2c5fe79f:0x1c055ba64cb08177!8m2!3d52.0069481!4d21.1055883!16s%2Fg%2F12llj1nkb!19sChIJn-dfLJ8oGUcRd4GwTKZbBRw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sushi Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Sushi+Piaseczno/data=!4m7!3m6!1s0x47192e4843694003:0x39b4e2afafe62a00!8m2!3d52.067382!4d21.0214536!16s%2Fg%2F11fy2pyvkz!19sChIJA0BpQ0guGUcRACrmr6_itDk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Centrum Handlowe Auchan Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Centrum+Handlowe+Auchan+Piaseczno/data=!4m7!3m6!1s0x47192f7026cca7f1:0xf6d945894bb77d74!8m2!3d52.0956224!4d21.0228209!16s%2Fg%2F11kpfd3h8_!19sChIJ8afMJnAvGUcRdH23S4lF2fY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KFC Piaseczno Okulickiego",
+    "mapsUrl": "https://www.google.com/maps/place/KFC+Piaseczno+Okulickiego/data=!4m7!3m6!1s0x47192e1612f83317:0xdecb89266eb9753b!8m2!3d52.0818536!4d21.0204162!16s%2Fg%2F11c481n0pz!19sChIJFzP4EhYuGUcRO3W5biaJy94?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "HELPA",
+    "mapsUrl": "https://www.google.com/maps/place/HELPA/data=!4m7!3m6!1s0x47193ad79e48cbdd:0x821f078e0420d5cf!8m2!3d52.088997!4d21.0327719!16s%2Fg%2F11gh2bswds!19sChIJ3ctIntc6GUcRz9UgBI4HH4I?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria Słoneczniki - Makarony I Burgery I Pizza Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+S%C5%82oneczniki+-+Makarony+I+Burgery+I+Pizza+Piaseczno/data=!4m7!3m6!1s0x47192ea47da0c439:0x7dcecf1f8064eadb!8m2!3d52.075187!4d21.025284!16s%2Fg%2F1th2742l!19sChIJOcSgfaQuGUcR2-pkgB_Pzn0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "San Park Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/San+Park+Piaseczno/data=!4m7!3m6!1s0x47192ddc9e2a7b61:0x5ed94dd1a49ebada!8m2!3d52.1016823!4d21.0202028!16s%2Fg%2F11w3kgyqq8!19sChIJYXsqntwtGUcR2rqepNFN2V4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Van Son",
+    "mapsUrl": "https://www.google.com/maps/place/Van+Son/data=!4m7!3m6!1s0x47192e054a0818cd:0xb5fc5895b7d52bb7!8m2!3d52.0922659!4d21.0181104!16s%2Fg%2F11b7hqdcjl!19sChIJzRgISgUuGUcRtyvVt5VY_LU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Asian Kebab & Grill",
+    "mapsUrl": "https://www.google.com/maps/place/Asian+Kebab+%26+Grill/data=!4m7!3m6!1s0x47192e40ee2f89ab:0x99b6e50a3122b09a!8m2!3d52.0756597!4d21.0277921!16s%2Fg%2F11f_4rr55x!19sChIJq4kv7kAuGUcRmrAiMQrltpk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gaumarjos Restauracja Gruzińska",
+    "mapsUrl": "https://www.google.com/maps/place/Gaumarjos+Restauracja+Gruzi%C5%84ska/data=!4m7!3m6!1s0x47192d78d6779591:0x261d02d338cfca99!8m2!3d52.1433302!4d21.0531573!16s%2Fg%2F1tcwvggc!19sChIJkZV31ngtGUcRmcrPONMCHSY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Sajgon",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Sajgon/data=!4m7!3m6!1s0x47192e3f485acd3d:0x985cced571451c4c!8m2!3d52.0752286!4d21.0222416!16s%2Fg%2F11c2l0_ytn!19sChIJPc1aSD8uGUcRTBxFcdXOXJg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Nova Sushi Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Nova+Sushi+Piaseczno/data=!4m7!3m6!1s0x47192fea8b83ee0d:0xc8f1d4d27757e987!8m2!3d52.0785055!4d21.0155679!16s%2Fg%2F11jg8tdhst!19sChIJDe6Di-ovGUcRh-lXd9LU8cg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KFC Piaseczno CH Auchan",
+    "mapsUrl": "https://www.google.com/maps/place/KFC+Piaseczno+CH+Auchan/data=!4m7!3m6!1s0x47192fe9747082f9:0xf7c5ecacfc1c867e!8m2!3d52.0959519!4d21.0222591!16s%2Fg%2F11mtjpvk83!19sChIJ-YJwdOkvGUcRfoYc_Kzsxfc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kawiarnia",
+    "mapsUrl": "https://www.google.com/maps/place/Kawiarnia/data=!4m7!3m6!1s0x47192f0008b1bcdb:0xcb8d43b273614ae3!8m2!3d52.0863055!4d21.0276335!16s%2Fg%2F11yb8r2jbs!19sChIJ27yxCAAvGUcR40phc7JDjcs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Bistro Polskie",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Bistro+Polskie/data=!4m7!3m6!1s0x47192e05f6867b75:0xb4ca78f9459d7480!8m2!3d52.0956224!4d21.0228209!16s%2Fg%2F1thsdny2!19sChIJdXuG9gUuGUcRgHSdRfl4yrQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dana Catering - Sala Weselna, Restauracja Sztos",
+    "mapsUrl": "https://www.google.com/maps/place/Dana+Catering+-+Sala+Weselna,+Restauracja+Sztos/data=!4m7!3m6!1s0x47192f19d3218899:0x71715196cb0b67e5!8m2!3d52.069182!4d21.053697!16s%2Fg%2F11kvt_p7t5!19sChIJmYgh0xkvGUcR5WcLy5ZRcXE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Meninx Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Meninx+Kebab/data=!4m7!3m6!1s0x47192e3f8c1c1ec3:0x1a8ff8457b21ed52!8m2!3d52.0778201!4d21.0258251!16s%2Fg%2F1pp2vm97k!19sChIJwx4cjD8uGUcRUu0he0X4jxo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel Dwór Konstancin | Wesela | Przyjęcia okolicznościowe | Imprezy firmowe",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+Dw%C3%B3r+Konstancin+%7C+Wesela+%7C+Przyj%C4%99cia+okoliczno%C5%9Bciowe+%7C+Imprezy+firmowe/data=!4m10!3m9!1s0x471929532fe1c94f:0xb9657232a0360c6e!5m2!4m1!1i2!8m2!3d52.0730556!4d21.1291667!16s%2Fg%2F11r9wxj56!19sChIJT8nhL1MpGUcRbgw2oDJyZbk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BERLIN DÖNER KEBAP",
+    "mapsUrl": "https://www.google.com/maps/place/BERLIN+D%C3%96NER+KEBAP/data=!4m7!3m6!1s0x47192f6daeea3599:0x6931df7eaa2c86c6!8m2!3d52.0954135!4d21.0227144!16s%2Fg%2F11j47n8b2l!19sChIJmTXqrm0vGUcRxoYsqn7fMWk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Phuong Nam - Bar Orientalny Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Phuong+Nam+-+Bar+Orientalny+Piaseczno/data=!4m7!3m6!1s0x47192e40e7e8e5f5:0x90286a93d7793ffd!8m2!3d52.075264!4d21.0273819!16s%2Fg%2F1t_tj0vt!19sChIJ9eXo50AuGUcR_T9515NqKJA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Like Thai",
+    "mapsUrl": "https://www.google.com/maps/place/Like+Thai/data=!4m7!3m6!1s0x47192e115b78b473:0x46b2747e7050f45e!8m2!3d52.0865319!4d21.022823!16s%2Fg%2F11hbnb8hc8!19sChIJc7R4WxEuGUcRXvRQcH50skY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Catering dietetyczny EAT FIT - Dieta pudełkowa z dostawą pod drzwi",
+    "mapsUrl": "https://www.google.com/maps/place/Catering+dietetyczny+EAT+FIT+-+Dieta+pude%C5%82kowa+z+dostaw%C4%85+pod+drzwi/data=!4m7!3m6!1s0x47192e49b667ae57:0xc3a7cc252dc74966!8m2!3d52.0776702!4d21.0284212!16s%2Fg%2F11c40kcnxf!19sChIJV65ntkkuGUcRZknHLSXMp8M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stajnia Chojnów",
+    "mapsUrl": "https://www.google.com/maps/place/Stajnia+Chojn%C3%B3w/data=!4m7!3m6!1s0x47192f2a42afcf35:0x8498a89428f746fd!8m2!3d52.0451517!4d21.0964427!16s%2Fg%2F1tm67p2k!19sChIJNc-vQiovGUcR_Ub3KJSomIQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Biesiadowo",
+    "mapsUrl": "https://www.google.com/maps/place/Biesiadowo/data=!4m7!3m6!1s0x47192e3796d9c35b:0xf66a35ab03735007!8m2!3d52.0690207!4d21.0164205!16s%2Fg%2F1td5vxcz!19sChIJW8PZljcuGUcRB1BzA6s1avY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shell",
+    "mapsUrl": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x47192e6a43c3738d:0xcb2a41da8f0b37c5!8m2!3d52.07979!4d21.034054!16s%2Fg%2F1trswrcn!19sChIJjXPDQ2ouGUcRxTcLj9pBKss?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Da Grasso",
+    "mapsUrl": "https://www.google.com/maps/place/Da+Grasso/data=!4m7!3m6!1s0x47192e3967a4c995:0x9d3a59644e358bbf!8m2!3d52.0740079!4d21.0158107!16s%2Fg%2F1tfzfhw0!19sChIJlcmkZzkuGUcRv4s1TmRZOp0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar orientalny",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+orientalny/data=!4m7!3m6!1s0x47192e0535db4045:0x72dabd9cc2ecb7c!8m2!3d52.0922676!4d21.018112!16s%2Fg%2F11g9gzt5hx!19sChIJRUDbNQUuGUcRfMsuzNmrLQc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cultured Foods",
+    "mapsUrl": "https://www.google.com/maps/place/Cultured+Foods/data=!4m7!3m6!1s0x47192f2bece4e8ed:0x191bed9fbae546b1!8m2!3d52.0925538!4d21.0141522!16s%2Fg%2F11h7cb0nlr!19sChIJ7ejk7CsvGUcRsUblup_tGxk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shell",
+    "mapsUrl": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x47192e6c07fcb1b1:0x61304b40053f4dd!8m2!3d52.083604!4d21.0373819!16s%2Fg%2F11b7k1tkzr!19sChIJsbH8B2wuGUcR3fRTALQEEwY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SEZAM sklep zielarski i zdrowa żywność",
+    "mapsUrl": "https://www.google.com/maps/place/SEZAM+sklep+zielarski+i+zdrowa+%C5%BCywno%C5%9B%C4%87/data=!4m7!3m6!1s0x47192fdaa8ad00ad:0xf2525c96e8efd!8m2!3d52.0720208!4d21.0251594!16s%2Fg%2F11h3c45lfb!19sChIJrQCtqNovGUcR_Y5uySUlDwA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stara Chata",
+    "mapsUrl": "https://www.google.com/maps/place/Stara+Chata/data=!4m7!3m6!1s0x47192f6fa6e86be5:0xdb31af3b41b8a050!8m2!3d52.0234059!4d21.0394669!16s%2Fg%2F1tslhggd!19sChIJ5Wvopm8vGUcRUKC4QTuvMds?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Auchan",
+    "mapsUrl": "https://www.google.com/maps/place/Auchan/data=!4m7!3m6!1s0x47192e057d2ed50f:0x2fb674459d67be6f!8m2!3d52.0956592!4d21.0233198!16s%2Fg%2F1td5_glp!19sChIJD9UufQUuGUcRb75nnUV0ti8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wild Bean Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Wild+Bean+Cafe/data=!4m7!3m6!1s0x47192e16a30cb2d1:0x14d213dad3933051!8m2!3d52.0845992!4d21.0222302!16s%2Fg%2F11fs1_lv41!19sChIJ0bIMoxYuGUcRUTCT09oT0hQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel i Restauracja Solec",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+i+Restauracja+Solec/data=!4m7!3m6!1s0x471ecc561138ddd5:0x50fc7348df670a9e!8m2!3d52.02984!4d21.1082454!16s%2Fg%2F1tdxjm2w!19sChIJ1d04EVbMHkcRngpn30hz_FA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cukiernia Piekarnia",
+    "mapsUrl": "https://www.google.com/maps/place/Cukiernia+Piekarnia/data=!4m7!3m6!1s0x47192f9aa6984acb:0x8983d57d5a757960!8m2!3d52.0762383!4d21.0200648!16s%2Fg%2F11rwmn1n6y!19sChIJy0qYppovGUcRYHl1Wn3Vg4k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wild Bean Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Wild+Bean+Cafe/data=!4m7!3m6!1s0x47192f4beccbb9fb:0x64efb68d1495b0d2!8m2!3d52.0816895!4d21.0209816!16s%2Fg%2F11fvp0ny75!19sChIJ-7nL7EsvGUcR0rCVFI2272Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pałacyk Pod Jodłami",
+    "mapsUrl": "https://www.google.com/maps/place/Pa%C5%82acyk+Pod+Jod%C5%82ami/data=!4m7!3m6!1s0x47192f8eefd70965:0x20dc2fb722ec0a32!8m2!3d52.0495209!4d20.9975793!16s%2Fg%2F11gt9wjng7!19sChIJZQnX744vGUcRMgrsIrcv3CA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Noclegi U Joanny – Hotel | Pokoje Do Wynajęcia Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Noclegi+U+Joanny+%E2%80%93+Hotel+%7C+Pokoje+Do+Wynaj%C4%99cia+Piaseczno/data=!4m7!3m6!1s0x47192e465344e5a3:0xce5c1e7680d3a26d!8m2!3d52.0680247!4d21.0256739!16s%2Fg%2F1tnpjrk0!19sChIJo-VEU0YuGUcRbaLTgHYeXM4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria T-Pizza Piaseczno, Wojska Polskiego 30",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+T-Pizza+Piaseczno,+Wojska+Polskiego+30/data=!4m7!3m6!1s0x47192e6ad2a3e017:0x221b8139c2b5ec07!8m2!3d52.0721187!4d21.0227212!16s%2Fg%2F1tcxhj0f!19sChIJF-Cj0mouGUcRB-y1wjmBGyI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sfinks Polska S.A.",
+    "mapsUrl": "https://www.google.com/maps/place/Sfinks+Polska+S.A./data=!4m7!3m6!1s0x47192e85ffa8b923:0xd87afe6db604e0b5!8m2!3d52.0248863!4d21.0408338!16s%2Fg%2F1ptybb70w!19sChIJI7mo_4UuGUcRteAEtm3-etg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizza Hut Piaseczno Karuzela",
+    "mapsUrl": "https://www.google.com/maps/place/Pizza+Hut+Piaseczno+Karuzela/data=!4m7!3m6!1s0x47192f68bdd0e88b:0x4c30e3fd06c3c7ad!8m2!3d52.0825884!4d21.0111608!16s%2Fg%2F1tfzw738!19sChIJi-jQvWgvGUcRrcfDBv3jMEw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gospoda Pod Orzechem",
+    "mapsUrl": "https://www.google.com/maps/place/Gospoda+Pod+Orzechem/data=!4m7!3m6!1s0x47192e44f2d42ac5:0x91d5e95f431a69d2!8m2!3d52.0707443!4d21.035249!16s%2Fg%2F11b7cfj_cq!19sChIJxSrU8kQuGUcR0mkaQ1_p1ZE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Selgros Warszawa Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Selgros+Warszawa+Piaseczno/data=!4m7!3m6!1s0x47192dff82438fdd:0x58873a9e34c7ced2!8m2!3d52.1049999!4d21.0203807!16s%2Fg%2F11dymdc7g6!19sChIJ3Y9Dgv8tGUcR0s7HNJ46h1g?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stacja Paliw AMIC Energy",
+    "mapsUrl": "https://www.google.com/maps/place/Stacja+Paliw+AMIC+Energy/data=!4m7!3m6!1s0x47192e1099f28e3b:0x9d20f5a0beff8a51!8m2!3d52.088159!4d21.0183959!16s%2Fg%2F1tfs9l6p!19sChIJO47ymRAuGUcRUYr_vqD1IJ0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja CORNER",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+CORNER/data=!4m7!3m6!1s0x47192e4a3f4f5fdf:0x88d0d470a9781872!8m2!3d52.0734748!4d21.0171294!16s%2Fg%2F1tfll59q!19sChIJ319PP0ouGUcRchh4qXDU0Ig?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Obiady Domowe",
+    "mapsUrl": "https://www.google.com/maps/place/Obiady+Domowe/data=!4m7!3m6!1s0x47192e4105c6bb6d:0xab7f52b22db1220a!8m2!3d52.0739729!4d21.0284939!16s%2Fg%2F11c1qm1627!19sChIJbbvGBUEuGUcRCiKxLbJSf6s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Urząd Miasta i Gminy Piaseczno",
+    "mapsUrl": "https://www.google.com/maps/place/Urz%C4%85d+Miasta+i+Gminy+Piaseczno/data=!4m7!3m6!1s0x47192e412b0ed5bd:0xee99d0b45d74cfc7!8m2!3d52.0737399!4d21.0277698!16s%2Fg%2F1tgq5d4m!19sChIJvdUOK0EuGUcRx890XbTQme4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BaliBali Bistro",
+    "mapsUrl": "https://www.google.com/maps/place/BaliBali+Bistro/data=!4m7!3m6!1s0x47192f5a31feb9d5:0x90ec7fa91c50fa9a!8m2!3d52.0685733!4d21.0234559!16s%2Fg%2F11jzdd4v9l!19sChIJ1bn-MVovGUcRmvpQHKl_7JA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Subway",
+    "mapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x47192f95c2e631bf:0xc1aa40853ffea0bb!8m2!3d52.0881004!4d21.01803!16s%2Fg%2F11j7967hg5!19sChIJvzHmwpUvGUcRu6D-P4VAqsE?authuser=0&hl=pl&rclk=1"
+  }
+]

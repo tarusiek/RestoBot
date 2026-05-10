@@ -1,0 +1,482 @@
+[
+  {
+    "name": ".LABA",
+    "mapsUrl": "https://www.google.com/maps/place/.LABA/data=!4m7!3m6!1s0x47193348c4036c41:0xd9b36eb87a64628c!8m2!3d52.184567!4d21.011959!16s%2Fg%2F11twdwcn_p!19sChIJQWwDxEgzGUcRjGJkerhus9k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Buły Świata",
+    "mapsUrl": "https://www.google.com/maps/place/Bu%C5%82y+%C5%9Awiata/data=!4m7!3m6!1s0x4719354236f6e783:0x2adb425c2c1a5e75!8m2!3d52.20076!4d20.932905!16s%2Fg%2F11v_5t9jrg!19sChIJg-f2NkI1GUcRdV4aLFxC2yo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Ucieranie Treści",
+    "mapsUrl": "https://www.google.com/maps/place/Ucieranie+Tre%C5%9Bci/data=!4m7!3m6!1s0x471935f2b4be9a41:0xe364a8115972decc!8m2!3d52.1657564!4d20.7985116!16s%2Fg%2F1x6q0hwg!19sChIJQZq-tPI1GUcRzN5yWRGoZOM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wejście Smoka",
+    "mapsUrl": "https://www.google.com/maps/place/Wej%C5%9Bcie+Smoka/data=!4m7!3m6!1s0x471935003af9fa1d:0x250118f0aad00569!8m2!3d52.1540302!4d20.8179992!16s%2Fg%2F11wjny7_b3!19sChIJHfr5OgA1GUcRaQXQqvAYASU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Yatai Ramen",
+    "mapsUrl": "https://www.google.com/maps/place/Yatai+Ramen/data=!4m7!3m6!1s0x471935a8a01c2cb3:0xfa233e36715dd4af!8m2!3d52.1518919!4d20.7937688!16s%2Fg%2F11svwh87fp!19sChIJsywcoKg1GUcRr9RdcTY-I_o?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Underground food & drink",
+    "mapsUrl": "https://www.google.com/maps/place/Underground+food+%26+drink/data=!4m7!3m6!1s0x4719356bedae3897:0x365cf51048a59aaf!8m2!3d52.163215!4d20.806017!16s%2Fg%2F11j24vkyx6!19sChIJlziu7Ws1GUcRr5qlSBD1XDY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "LOFT food&music Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/LOFT+food%26music+Pruszk%C3%B3w/data=!4m7!3m6!1s0x47193563ee50f375:0xceb1e571f9b9a851!8m2!3d52.1696978!4d20.8130894!16s%2Fg%2F11j0k5zw7j!19sChIJdfNQ7mM1GUcRUai5-XHlsc4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Corrado",
+    "mapsUrl": "https://www.google.com/maps/place/Corrado/data=!4m7!3m6!1s0x4719350bc730dac5:0xe8a7036f2761ef8a!8m2!3d52.1584616!4d20.7996362!16s%2Fg%2F1tlvn87k!19sChIJxdowxws1GUcRiu9hJ28Dp-g?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bistro Milano",
+    "mapsUrl": "https://www.google.com/maps/place/Bistro+Milano/data=!4m7!3m6!1s0x471935424fa46245:0xd3557c425714999!8m2!3d52.1629497!4d20.8083494!16s%2Fg%2F11j0d3w31g!19sChIJRWKkT0I1GUcRmUlxJcRXNQ0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stacja Smaku Zapiekanki Beza Bistro&bar",
+    "mapsUrl": "https://www.google.com/maps/place/Stacja+Smaku+Zapiekanki+Beza+Bistro%26bar/data=!4m7!3m6!1s0x47193575a358bd27:0xcdf24384659dbc2a!8m2!3d52.1616418!4d20.8162444!16s%2Fg%2F11pyspndcv!19sChIJJ71Yo3U1GUcRKrydZYRD8s0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Trattoria Erbario",
+    "mapsUrl": "https://www.google.com/maps/place/Trattoria+Erbario/data=!4m7!3m6!1s0x471935e9219b8663:0xfe694195ce36e304!8m2!3d52.1570024!4d20.8041465!16s%2Fg%2F1hdzs61tf!19sChIJY4abIek1GUcRBOM2zpVBaf4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Iskander Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Iskander+Kebab/data=!4m7!3m6!1s0x471935815bb706bd:0x35a745bdb75a632b!8m2!3d52.1678827!4d20.8008634!16s%2Fg%2F11xvp5bplk!19sChIJvQa3W4E1GUcRK2Nat71FpzU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kameralne - Kuchnia Wino Muzyka",
+    "mapsUrl": "https://www.google.com/maps/place/Kameralne+-+Kuchnia+Wino+Muzyka/data=!4m7!3m6!1s0x471935708d613bfb:0xdfb38fcf4a1e7ad6!8m2!3d52.1910876!4d20.8222933!16s%2Fg%2F1q5bshw51!19sChIJ-zthjXA1GUcR1noeSs-Ps98?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kogiel Mogiel Caffe & Resto-Bar",
+    "mapsUrl": "https://www.google.com/maps/place/Kogiel+Mogiel+Caffe+%26+Resto-Bar/data=!4m7!3m6!1s0x471935e4878c5011:0x301536fa65fa8af8!8m2!3d52.1613929!4d20.8066449!16s%2Fg%2F11hzw9zn7_!19sChIJEVCMh-Q1GUcR-Ir6Zfo2FTA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Browar Otwarte Bramy",
+    "mapsUrl": "https://www.google.com/maps/place/Browar+Otwarte+Bramy/data=!4m7!3m6!1s0x47193536e732bd41:0xc6f20c08ddb67c6e!8m2!3d52.1656014!4d20.7984753!16s%2Fg%2F11hfxb52fm!19sChIJQb0y5zY1GUcRbny23QgM8sY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Com Viet Asian Cuisine",
+    "mapsUrl": "https://www.google.com/maps/place/Com+Viet+Asian+Cuisine/data=!4m7!3m6!1s0x471935218f13b2fd:0xa5a55d53c55303a3!8m2!3d52.1612742!4d20.8076441!16s%2Fg%2F11qnfvlwd8!19sChIJ_bITjyE1GUcRowNTxVNdpaU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Ristorante Palermo Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Ristorante+Palermo+Pruszk%C3%B3w/data=!4m7!3m6!1s0x4719358b1278fb7b:0x2a1f1f41ff1d391e!8m2!3d52.1636552!4d20.8070597!16s%2Fg%2F11kq4xspgs!19sChIJe_t4Eos1GUcRHjkd_0EfHyo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kassai SUSHI",
+    "mapsUrl": "https://www.google.com/maps/place/Kassai+SUSHI/data=!4m7!3m6!1s0x471935a9359a9951:0xb8faee13531e3fc9!8m2!3d52.1613132!4d20.807399!16s%2Fg%2F11q2w01npp!19sChIJUZmaNak1GUcRyT8eUxPu-rg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja „Orka”",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+%E2%80%9EOrka%E2%80%9D/data=!4m7!3m6!1s0x471935c9dd419ae7:0x9528eef29ef824b1!8m2!3d52.1558715!4d20.7958521!16s%2Fg%2F11jcn0h90b!19sChIJ55pB3ck1GUcRsST4nvLuKJU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "MAX Premium Burgers",
+    "mapsUrl": "https://www.google.com/maps/place/MAX+Premium+Burgers/data=!4m7!3m6!1s0x47193575d7a9729f:0x6540e87cac87a5c3!8m2!3d52.1727075!4d20.8399811!16s%2Fg%2F11q2yvb7ht!19sChIJn3Kp13U1GUcRw6WHrHzoQGU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "The Pills Burger 🍔",
+    "mapsUrl": "https://www.google.com/maps/place/The+Pills+Burger+%F0%9F%8D%94/data=!4m7!3m6!1s0x47193575eedcb727:0x264944fa970d5e0f!8m2!3d52.1595305!4d20.8058029!16s%2Fg%2F11x7qf_j9x!19sChIJJ7fc7nU1GUcRD14Nl_pESSY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Indian Curry",
+    "mapsUrl": "https://www.google.com/maps/place/Indian+Curry/data=!4m7!3m6!1s0x471935a4d5cc4633:0x341e83fef8c48984!8m2!3d52.158939!4d20.800315!16s%2Fg%2F11fknmwmpn!19sChIJM0bM1aQ1GUcRhInE-P6DHjQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Naleśnikarnia Ale Nale | Restauracja Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Nale%C5%9Bnikarnia+Ale+Nale+%7C+Restauracja+Pruszk%C3%B3w/data=!4m7!3m6!1s0x4719359377e87af5:0xb763049b8b688fca!8m2!3d52.1667904!4d20.8086257!16s%2Fg%2F12mkw91hx!19sChIJ9Xrod5M1GUcRyo9oi5sEY7c?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "O Kurczaki!",
+    "mapsUrl": "https://www.google.com/maps/place/O+Kurczaki!/data=!4m7!3m6!1s0x471ecbf9dcdc9ec5:0xa36c7f9c3166a38e!8m2!3d52.1653137!4d20.8065742!16s%2Fg%2F11gtz8wbsr!19sChIJxZ7c3PnLHkcRjqNmMZx_bKM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pierogi od Gospochy",
+    "mapsUrl": "https://www.google.com/maps/place/Pierogi+od+Gospochy/data=!4m7!3m6!1s0x471935e914932021:0x10151439b59bceb1!8m2!3d52.1552901!4d20.7911944!16s%2Fg%2F11q2tprbk3!19sChIJISCTFOk1GUcRsc6btTkUFRA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Fit Cake Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Fit+Cake+Pruszk%C3%B3w/data=!4m7!3m6!1s0x471935292686cd01:0x77e5313ad029b854!8m2!3d52.1651459!4d20.8062936!16s%2Fg%2F11ny4l8qrw!19sChIJAc2GJik1GUcRVLgp0Dox5Xc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Quattro Si",
+    "mapsUrl": "https://www.google.com/maps/place/Quattro+Si/data=!4m7!3m6!1s0x471935f088b1b227:0x41c7f76757eddc29!8m2!3d52.1572447!4d20.7889904!16s%2Fg%2F11c0xpkwzx!19sChIJJ7KxiPA1GUcRKdztV2f3x0E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "All Day Tea Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/All+Day+Tea+Pruszk%C3%B3w/data=!4m7!3m6!1s0x47193500055f77d5:0x5a62e82516fbfc7c!8m2!3d52.1643026!4d20.8065582!16s%2Fg%2F11w26fb4_b!19sChIJ1XdfBQA1GUcRfPz7FiXoYlo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "ASIA 86 BAR ORIENTALNY",
+    "mapsUrl": "https://www.google.com/maps/place/ASIA+86+BAR+ORIENTALNY/data=!4m7!3m6!1s0x4719350063cfa1cd:0xf83e05c6e3ebc505!8m2!3d52.157619!4d20.7990615!16s%2Fg%2F11wpm605gx!19sChIJzaHPYwA1GUcRBcXr48YFPvg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Jadalnia Popularna",
+    "mapsUrl": "https://www.google.com/maps/place/Jadalnia+Popularna/data=!4m7!3m6!1s0x471935ec816f94cd:0x22d597908c051ccb!8m2!3d52.1620874!4d20.8057123!16s%2Fg%2F1hc56cgq0!19sChIJzZRvgew1GUcRyxwFjJCX1SI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bistro Zielona Oliwka",
+    "mapsUrl": "https://www.google.com/maps/place/Bistro+Zielona+Oliwka/data=!4m7!3m6!1s0x471935808f8018f7:0x2c005416a53b93c2!8m2!3d52.1675347!4d20.8007619!16s%2Fg%2F11vj2vltf4!19sChIJ9xiAj4A1GUcRwpM7pRZUACw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab Salem Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+Salem+Pruszk%C3%B3w/data=!4m7!3m6!1s0x471935ded3dd914b:0x4e726e9bd6cb85b9!8m2!3d52.1552561!4d20.7945786!16s%2Fg%2F11rtlv6nx0!19sChIJS5Hd0941GUcRuYXL1ptuck4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Karczemka",
+    "mapsUrl": "https://www.google.com/maps/place/Karczemka/data=!4m7!3m6!1s0x47193592cfea687d:0x9c4f52a9624d0c08!8m2!3d52.1563877!4d20.7952431!16s%2Fg%2F11cllhdxqc!19sChIJfWjqz5I1GUcRCAxNYqlST5w?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Déjàvi Ice Cream Café",
+    "mapsUrl": "https://www.google.com/maps/place/D%C3%A9j%C3%A0vi+Ice+Cream+Caf%C3%A9/data=!4m7!3m6!1s0x471e9f7115054d03:0x3eacad9a3fa0be4!8m2!3d52.156478!4d20.7950575!16s%2Fg%2F11h4lrw5mm!19sChIJA00FFXGfHkcR5Av6o9nK6gM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "RESTAURACJA & BAR SIELSKA Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/RESTAURACJA+%26+BAR+SIELSKA+Pruszk%C3%B3w/data=!4m7!3m6!1s0x47194a6d935d9d79:0xe160a811ccd4f71f!8m2!3d52.1747174!4d20.7715364!16s%2Fg%2F1ptzq7ktr!19sChIJeZ1dk21KGUcRH_fUzBGoYOE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sala Bankietowa \"Galeria\"",
+    "mapsUrl": "https://www.google.com/maps/place/Sala+Bankietowa+%22Galeria%22/data=!4m7!3m6!1s0x471935832a96ec09:0x97467ac98e67b92a!8m2!3d52.1824699!4d20.8133432!16s%2Fg%2F11h6g17jy4!19sChIJCeyWKoM1GUcRKrlnjsl6Rpc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "WPR BURGER",
+    "mapsUrl": "https://www.google.com/maps/place/WPR+BURGER/data=!4m7!3m6!1s0x4719358d0dfe7ded:0x5f0dd85e7c0fee94!8m2!3d52.1676078!4d20.7994968!16s%2Fg%2F11b6gm83sd!19sChIJ7X3-DY01GUcRlO4PfF7YDV8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Nowa Stacja",
+    "mapsUrl": "https://www.google.com/maps/place/Nowa+Stacja/data=!4m7!3m6!1s0x471935f369d15269:0x83e3afc26725ce93!8m2!3d52.1651597!4d20.7920076!16s%2Fg%2F11gd1rz8x0!19sChIJaVLRafM1GUcRk84lZ8Kv44M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sushi World Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Sushi+World+Pruszk%C3%B3w/data=!4m7!3m6!1s0x4719353fa28a441f:0x81654598db785d0b!8m2!3d52.1617562!4d20.7893471!16s%2Fg%2F11ns54gd20!19sChIJH0SKoj81GUcRC11425hFZYE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Hanoi",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Hanoi/data=!4m7!3m6!1s0x471935e52f9883f7:0xca827176c74ab98a!8m2!3d52.1537673!4d20.7918912!16s%2Fg%2F11bwpp74xp!19sChIJ94OYL-U1GUcRirlKx3Zxgso?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dom Weselny u Kieliszka – Wesela, Chrzciny, Komunie, Konsolacje, Przyjęcia okolicznościowe, Catering Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Dom+Weselny+u+Kieliszka+%E2%80%93+Wesela,+Chrzciny,+Komunie,+Konsolacje,+Przyj%C4%99cia+okoliczno%C5%9Bciowe,+Catering+Pruszk%C3%B3w/data=!4m7!3m6!1s0x471935f5ffc82b23:0xa8373db56bc56ec!8m2!3d52.1638327!4d20.7821194!16s%2Fg%2F1w96fh8b!19sChIJIyvI__U1GUcR7Fa8Vttzgwo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gemix Ewa Grabowska ,,MC'Gayver's PUB\"",
+    "mapsUrl": "https://www.google.com/maps/place/Gemix+Ewa+Grabowska+,,MC%27Gayver%27s+PUB%22/data=!4m7!3m6!1s0x471935f737e442f3:0x2b2de44783533a2a!8m2!3d52.1586866!4d20.7851741!16s%2Fg%2F1tjhwdmx!19sChIJ80LkN_c1GUcRKjpTg0fkLSs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cao-Cao Vietnamese Cuisine",
+    "mapsUrl": "https://www.google.com/maps/place/Cao-Cao+Vietnamese+Cuisine/data=!4m7!3m6!1s0x471935225e71e0e5:0x2d7a835bb2461f4e!8m2!3d52.1638648!4d20.80691!16s%2Fg%2F11pb1yyjpp!19sChIJ5eBxXiI1GUcRTh9GsluDei0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Maraga Smaki Świata kuchnia polska kuchnia azjatycka",
+    "mapsUrl": "https://www.google.com/maps/place/Maraga+Smaki+%C5%9Awiata+kuchnia+polska+kuchnia+azjatycka/data=!4m7!3m6!1s0x471948ffe50c971d:0x9842f300808002b9!8m2!3d52.1652219!4d20.8066616!16s%2Fg%2F11xxgwd3y!19sChIJHZcM5f9IGUcRuQKAgADzQpg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Lunch. Bar",
+    "mapsUrl": "https://www.google.com/maps/place/Lunch.+Bar/data=!4m7!3m6!1s0x471935ea9f3b3835:0x2ebbb06a793789f5!8m2!3d52.1616599!4d20.8140341!16s%2Fg%2F1tglxqx3!19sChIJNTg7n-o1GUcR9Yk3eWqwuy4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel i restauracja Anton",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+i+restauracja+Anton/data=!4m10!3m9!1s0x4719359154655555:0x5404a68a7cc5963b!5m2!4m1!1i2!8m2!3d52.1693517!4d20.8114904!16s%2Fg%2F11nmrhvy8y!19sChIJVVVlVJE1GUcRO5bFfIqmBFQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pierogi",
+    "mapsUrl": "https://www.google.com/maps/place/Pierogi/data=!4m7!3m6!1s0x471935bebee72f2b:0xef3fa5ed568a4e3c!8m2!3d52.1609662!4d20.7952304!16s%2Fg%2F11h0g_8x8c!19sChIJKy_nvr41GUcRPE6KVu2lP-8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Saigon Station - Kuchnia Azjatycka",
+    "mapsUrl": "https://www.google.com/maps/place/Saigon+Station+-+Kuchnia+Azjatycka/data=!4m7!3m6!1s0x471935b20e8f15bb:0x4943c4f3e9f041dc!8m2!3d52.1666964!4d20.7958382!16s%2Fg%2F11m7bk96b7!19sChIJuxWPDrI1GUcR3EHw6fPEQ0k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Silver Dragon",
+    "mapsUrl": "https://www.google.com/maps/place/Silver+Dragon/data=!4m7!3m6!1s0x471935913bf3cb7b:0x107c7be2c50a4f21!8m2!3d52.1708454!4d20.8116859!16s%2Fg%2F11cmsd6wrr!19sChIJe8vzO5E1GUcRIU8KxeJ7fBA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cafe Malavi",
+    "mapsUrl": "https://www.google.com/maps/place/Cafe+Malavi/data=!4m7!3m6!1s0x471935ec767d17fb:0x148c88647a4417ca!8m2!3d52.1609143!4d20.8050539!16s%2Fg%2F1q6j204kb!19sChIJ-xd9duw1GUcRyhdEemSIjBQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Smak Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Smak+Kebab/data=!4m7!3m6!1s0x471935ec0ad0f84d:0x1089e9ecb5140716!8m2!3d52.1604547!4d20.8046862!16s%2Fg%2F11cmkll4bm!19sChIJTfjQCuw1GUcRFgcUtezpiRA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sushi Sushi Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Sushi+Sushi+Pruszk%C3%B3w/data=!4m7!3m6!1s0x471935fafa2569e5:0x93b370f4c135c32!8m2!3d52.1546332!4d20.7882309!16s%2Fg%2F11b6hn1jlj!19sChIJ5Wkl-vo1GUcRMlwTTA83Owk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizza 24 Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Pizza+24+Pruszk%C3%B3w/data=!4m7!3m6!1s0x471935ef0fa3b773:0x124cb8af9df4bb19!8m2!3d52.1618796!4d20.7876536!16s%2Fg%2F11dzpmhchw!19sChIJc7ejD-81GUcRGbv0na-4TBI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Oishii Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Oishii+Sushi/data=!4m7!3m6!1s0x471935913a25826b:0x905c87f3aca3a4a!8m2!3d52.1708287!4d20.8116646!16s%2Fg%2F1tdwtf5m!19sChIJa4IlOpE1GUcRSjrKOn_IBQk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gipsiak Aneta. Bufet szkolny",
+    "mapsUrl": "https://www.google.com/maps/place/Gipsiak+Aneta.+Bufet+szkolny/data=!4m7!3m6!1s0x4719358d6776afa5:0xf4df031deb40d545!8m2!3d52.1671016!4d20.8005667!16s%2Fg%2F1hc2bj05k!19sChIJpa92Z401GUcRRdVA6x0D3_Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria Mewa",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+Mewa/data=!4m7!3m6!1s0x471935bf6ea0cff7:0xe9017913f3ae85ba!8m2!3d52.1620531!4d20.8221433!16s%2Fg%2F1thz0dzw!19sChIJ98-gbr81GUcRuoWu8xN5Aek?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Gościnna Chata",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Go%C5%9Bcinna+Chata/data=!4m7!3m6!1s0x4719350a53b3852b:0x8b0bd228f4753a37!8m2!3d52.18353!4d20.837094!16s%2Fg%2F1tcv053g!19sChIJK4WzUwo1GUcRNzp19CjSC4s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Artur Szymański Produkcja Wyrobów Garmażeryjnych",
+    "mapsUrl": "https://www.google.com/maps/place/Artur+Szyma%C5%84ski+Produkcja+Wyrob%C3%B3w+Garma%C5%BCeryjnych/data=!4m7!3m6!1s0x471935f21d188dbb:0xe252f192f929015b!8m2!3d52.1609911!4d20.7953545!16s%2Fg%2F1td759yn!19sChIJu40YHfI1GUcRWwEp-ZLxUuI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Desi flame kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Desi+flame+kebab/data=!4m7!3m6!1s0x47193500318b916d:0x748f74ef8bcf3159!8m2!3d52.1583087!4d20.7898631!16s%2Fg%2F11y0h6svdr!19sChIJbZGLMQA1GUcRWTHPi-90j3Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab Erebuni",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+Erebuni/data=!4m7!3m6!1s0x4719356104b324d5:0x104f033a30b44eea!8m2!3d52.1635065!4d20.8039247!16s%2Fg%2F11gsbl_wpc!19sChIJ1SSzBGE1GUcR6k60MDoDTxA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel Victor Pruszków DeSilva",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+Victor+Pruszk%C3%B3w+DeSilva/data=!4m10!3m9!1s0x471935bf62a4d3e9:0x104cec27566433b0!5m2!4m1!1i2!8m2!3d52.1626056!4d20.8218704!16s%2Fg%2F1tdl9gc2!19sChIJ6dOkYr81GUcRsDNkVifsTBA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Tłuszczem Ociekające Burger & Grill Bar Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/T%C5%82uszczem+Ociekaj%C4%85ce+Burger+%26+Grill+Bar+Pruszk%C3%B3w/data=!4m7!3m6!1s0x47193589bea8f851:0x81e9b25210506202!8m2!3d52.155418!4d20.787398!16s%2Fg%2F11x6nw480s!19sChIJUfiovok1GUcRAmJQEFKy6YE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Solivoda",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Solivoda/data=!4m7!3m6!1s0x471935a030896eaf:0x8a884cee6c1121f4!8m2!3d52.1749353!4d20.8139144!16s%2Fg%2F11fjsw06pt!19sChIJr26JMKA1GUcR9CERbO5MiIo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SALA Z KLASĄ. Pierogi. Sala Bankietowa.",
+    "mapsUrl": "https://www.google.com/maps/place/SALA+Z+KLAS%C4%84.+Pierogi.+Sala+Bankietowa./data=!4m7!3m6!1s0x4719359789902257:0xaf18c24c4a907702!8m2!3d52.1728169!4d20.820474!16s%2Fg%2F11cmvvmjtk!19sChIJVyKQiZc1GUcRAneQSkzCGK8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KOKU SUSHI POINT PRUSZKÓW",
+    "mapsUrl": "https://www.google.com/maps/place/KOKU+SUSHI+POINT+PRUSZK%C3%93W/data=!4m7!3m6!1s0x471935d9e7e76763:0xab9c3787bd41854f!8m2!3d52.1637275!4d20.792119!16s%2Fg%2F11s2r_xcsd!19sChIJY2fn59k1GUcRT4VBvYc3nKs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Soból Angelina. Usługi gastronomiczne",
+    "mapsUrl": "https://www.google.com/maps/place/Sob%C3%B3l+Angelina.+Us%C5%82ugi+gastronomiczne/data=!4m7!3m6!1s0x471935afb476c569:0x417752ee85e03840!8m2!3d52.1706244!4d20.8431503!16s%2Fg%2F1hc7xxb1h!19sChIJacV2tK81GUcRQDjghe5Sd0E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Corrado",
+    "mapsUrl": "https://www.google.com/maps/place/Corrado/data=!4m7!3m6!1s0x4719350bb87ab5fb:0x6f568f1727b2e090!8m2!3d52.1845698!4d20.8389795!16s%2Fg%2F11cn2mfc10!19sChIJ-7V6uAs1GUcRkOCyJxePVm8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Papa Johns Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Papa+Johns+Pizza/data=!4m7!3m6!1s0x471935007e8cdf71:0xc51201eedee5044!8m2!3d52.1597865!4d20.8050472!16s%2Fg%2F11x0mw7q35!19sChIJcd-MfgA1GUcRRFDu7R4gUQw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "So Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/So+Coffee/data=!4m7!3m6!1s0x471935609b16e901:0xc373518abd1a87b1!8m2!3d52.1656274!4d20.7935649!16s%2Fg%2F11j0yvqgld!19sChIJAekWm2A1GUcRsYcavYpRc8M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sila Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Sila+Kebab/data=!4m7!3m6!1s0x471935e538d9f9b1:0x3e326d4cc1c897e8!8m2!3d52.1542946!4d20.792968!16s%2Fg%2F1tcwpwx_!19sChIJsfnZOOU1GUcR6JfIwUxtMj4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Domowe Bistro",
+    "mapsUrl": "https://www.google.com/maps/place/Domowe+Bistro/data=!4m7!3m6!1s0x471935f415420a0d:0x4c401d9c98f888ed!8m2!3d52.1639685!4d20.7876699!16s%2Fg%2F11ggr32vvl!19sChIJDQpCFfQ1GUcR7Yj4mJwdQEw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Jedyna Taka Pizza Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/Jedyna+Taka+Pizza+Pruszk%C3%B3w/data=!4m7!3m6!1s0x471935cfcf4d0b2d:0x19ef4d16a7f9f57a!8m2!3d52.155418!4d20.787398!16s%2Fg%2F11ldms47yb!19sChIJLQtNz881GUcRevX5pxZN7xk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stacja Paliw MOL",
+    "mapsUrl": "https://www.google.com/maps/place/Stacja+Paliw+MOL/data=!4m7!3m6!1s0x47193588c89f285d:0xb1a458e99f876dde!8m2!3d52.1755163!4d20.7981773!16s%2Fg%2F11gf5x181v!19sChIJXSifyIg1GUcR3m2Hn-lYpLE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Centrum Kultury i Sportu w Pruszkowie",
+    "mapsUrl": "https://www.google.com/maps/place/Centrum+Kultury+i+Sportu+w+Pruszkowie/data=!4m7!3m6!1s0x471935914b0e4f55:0xed1e48c7ed298a78!8m2!3d52.1698077!4d20.8131485!16s%2Fg%2F11f086vfx8!19sChIJVU8OS5E1GUcReIop7cdIHu0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KOMO Restauracja",
+    "mapsUrl": "https://www.google.com/maps/place/KOMO+Restauracja/data=!4m7!3m6!1s0x471935e0c8f1dd9f:0x143d0ca393175164!8m2!3d52.1455342!4d20.8108819!16s%2Fg%2F11swps7pqx!19sChIJn93xyOA1GUcRZFEXk6MMPRQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Ebi Sushi Piastów",
+    "mapsUrl": "https://www.google.com/maps/place/Ebi+Sushi+Piast%C3%B3w/data=!4m7!3m6!1s0x471935364235575b:0x580af9796fc563c8!8m2!3d52.1837517!4d20.8388255!16s%2Fg%2F11fktgq8kv!19sChIJW1c1QjY1GUcRyGPFb3n5Clg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Prosiak Polski Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Prosiak+Polski+Kebab/data=!4m7!3m6!1s0x471935db3af020ad:0xd9495129033b2407!8m2!3d52.155418!4d20.787398!16s%2Fg%2F11h1g51ljp!19sChIJrSDwOts1GUcRByQ7AylRSdk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar z obiadami Oliwka",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+z+obiadami+Oliwka/data=!4m7!3m6!1s0x4719358d7b28e53f:0x6cac2f3a13b9d430!8m2!3d52.167108!4d20.8006027!16s%2Fg%2F11clt9jc70!19sChIJP-Uoe401GUcRMNS5EzovrGw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shinsen Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Shinsen+Sushi/data=!4m7!3m6!1s0x47193586344f7c63:0xb3182d52b9fc1cc1!8m2!3d52.149664!4d20.7951487!16s%2Fg%2F11h6g7kgy1!19sChIJY3xPNIY1GUcRwRz8uVItGLM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Subway",
+    "mapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x4719359d46429def:0xe2faa987d609dd3c!8m2!3d52.1755182!4d20.7981868!16s%2Fg%2F11h7kyndqp!19sChIJ751CRp01GUcRPN0J1oep-uI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Anisa Kebab And Grill",
+    "mapsUrl": "https://www.google.com/maps/place/Anisa+Kebab+And+Grill/data=!4m7!3m6!1s0x47193540c26f2c25:0x9af3b63abfeb3f84!8m2!3d52.1657896!4d20.8048892!16s%2Fg%2F11vqrzmzg9!19sChIJJSxvwkA1GUcRhD_rvzq285o?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Tantus Sp. z o.o. Kontraktowa produkcja suplementów diety",
+    "mapsUrl": "https://www.google.com/maps/place/Tantus+Sp.+z+o.o.+Kontraktowa+produkcja+suplement%C3%B3w+diety/data=!4m7!3m6!1s0x4719490770485711:0x4f6fc7fd7d05925!8m2!3d52.1759064!4d20.8292608!16s%2Fg%2F1tfd1415!19sChIJEVdIcAdJGUcRJVnQ13_89gQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Zahir Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Zahir+Kebab/data=!4m7!3m6!1s0x47193512ca56c263:0xca9fe628e6d2a27!8m2!3d52.1674696!4d20.798695!16s%2Fg%2F11tgby9tdp!19sChIJY8JWyhI1GUcRJyptjmL-qQw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Da Grasso",
+    "mapsUrl": "https://www.google.com/maps/place/Da+Grasso/data=!4m7!3m6!1s0x47193595626bf8f5:0x7ad048d03345d900!8m2!3d52.1619658!4d20.8080099!16s%2Fg%2F11h4l17_g7!19sChIJ9fhrYpU1GUcRANlFM9BI0Ho?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KFC Pruszków Nowa Stacja",
+    "mapsUrl": "https://www.google.com/maps/place/KFC+Pruszk%C3%B3w+Nowa+Stacja/data=!4m7!3m6!1s0x471935487413c4a7:0x94305a4b0e670b69!8m2!3d52.1651068!4d20.7925113!16s%2Fg%2F11gxg8qg0h!19sChIJp8QTdEg1GUcRaQtnDktaMJQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wild Bean Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Wild+Bean+Cafe/data=!4m7!3m6!1s0x47194bd85ee23ce9:0xa1743e5c4c6e3ac3!8m2!3d52.182282!4d20.783649!16s%2Fg%2F11fw935vy1!19sChIJ6TziXthLGUcRwzpuTFw-dKE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Elita",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Elita/data=!4m7!3m6!1s0x471949e0515bfa43:0xc8c07004e5a31119!8m2!3d52.1322932!4d20.7530465!16s%2Fg%2F1tcz71tb!19sChIJQ_pbUeBJGUcRGRGj5QRwwMg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja McDonald's",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+McDonald%27s/data=!4m7!3m6!1s0x471935932331685f:0xb159d6af6cb3dd29!8m2!3d52.1654397!4d20.8051308!16s%2Fg%2F1tl8jg4_!19sChIJX2gxI5M1GUcRKd2zbK_WWbE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471935d9bac15a9f:0xdb33daa1108062d8!8m2!3d52.1615355!4d20.7872243!16s%2Fg%2F11x7z47nps!19sChIJn1rButk1GUcR2GKAEKHaM9s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shell",
+    "mapsUrl": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x47193593ab1cff7f:0x654676a6f2b2cf50!8m2!3d52.167421!4d20.80612!16s%2Fg%2F1tdq99_t!19sChIJf_8cq5M1GUcRUM-y8qZ2RmU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x4719356bf5ac7381:0x17af9770505ee0ee!8m2!3d52.1806121!4d20.8225356!16s%2Fg%2F11xtq65ycy!19sChIJgXOs9Ws1GUcR7uBeUHCXrxc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja McDonald's",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+McDonald%27s/data=!4m7!3m6!1s0x471935e526311ead:0xff6f73672990e994!8m2!3d52.1653835!4d20.7928766!16s%2Fg%2F11fgk64xwt!19sChIJrR4xJuU1GUcRlOmQKWdzb_8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pierogi Szymański",
+    "mapsUrl": "https://www.google.com/maps/place/Pierogi+Szyma%C5%84ski/data=!4m7!3m6!1s0x471935b8660bcb85:0x9c994b3cff61e820!8m2!3d52.1680489!4d20.7989793!16s%2Fg%2F11j81n92q1!19sChIJhcsLZrg1GUcRIOhh_zxLmZw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stara Cukiernia",
+    "mapsUrl": "https://www.google.com/maps/place/Stara+Cukiernia/data=!4m7!3m6!1s0x471935d94cfd5325:0x887d69b6076f84bc!8m2!3d52.146063!4d20.811423!16s%2Fg%2F11c6vhy4dq!19sChIJJVP9TNk1GUcRvIRvB7ZpfYg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Catering Good Food",
+    "mapsUrl": "https://www.google.com/maps/place/Catering+Good+Food/data=!4m7!3m6!1s0x47194bdd841ee6a9:0xa27ec04bad8921ad!8m2!3d52.179637!4d20.787606!16s%2Fg%2F11hzv1f663!19sChIJqeYehN1LGUcRrSGJrUvAfqI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cukiernia Joanna Bastecka",
+    "mapsUrl": "https://www.google.com/maps/place/Cukiernia+Joanna+Bastecka/data=!4m7!3m6!1s0x4719351e91f0e827:0x99212aed2c9569d7!8m2!3d52.1565772!4d20.8112354!16s%2Fg%2F11pzs9tw7l!19sChIJJ-jwkR41GUcR12mVLO0qIZk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Domino's Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Domino%27s+Pizza/data=!4m7!3m6!1s0x471935933962b20d:0x6d1afff6e0bf5fea!8m2!3d52.1539517!4d20.7923069!16s%2Fg%2F1td36_3b!19sChIJDbJiOZM1GUcR6l-_4Pb_Gm0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "ATUT",
+    "mapsUrl": "https://www.google.com/maps/place/ATUT/data=!4m7!3m6!1s0x47194bba3f48effd:0xc574c66055b50e85!8m2!3d52.1609321!4d20.7790509!16s%2Fg%2F11f66gv360!19sChIJ_e9IP7pLGUcRhQ61VWDGdMU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "EBB Nieruchomości",
+    "mapsUrl": "https://www.google.com/maps/place/EBB+Nieruchomo%C5%9Bci/data=!4m7!3m6!1s0x471935f2cf48b26b:0xe6098670589fb27a!8m2!3d52.1647361!4d20.7972878!16s%2Fg%2F1th095c_!19sChIJa7JIz_I1GUcRerKfWHCGCeY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Oddział Celny I w Pruszkowie",
+    "mapsUrl": "https://www.google.com/maps/place/Oddzia%C5%82+Celny+I+w+Pruszkowie/data=!4m7!3m6!1s0x47194a0e523070df:0xf67413372436a5d3!8m2!3d52.1639402!4d20.7676138!16s%2Fg%2F11hzwbffdx!19sChIJ33AwUg5KGUcR06U2JDcTdPY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Magazyn 5, restauracja & delikatesy",
+    "mapsUrl": "https://www.google.com/maps/place/Magazyn+5,+restauracja+%26+delikatesy/data=!4m7!3m6!1s0x471934f0c8db3e65:0xc3f7a3eb869e905f!8m2!3d52.1782453!4d20.8824174!16s%2Fg%2F11c0xrrj0t!19sChIJZT7byPA0GUcRX5Cehuuj98M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47193507061e04a5:0x7ac6aaab8d80003e!8m2!3d52.1786166!4d20.7936171!16s%2Fg%2F11ygh072p7!19sChIJpQQeBgc1GUcRPgCAjauqxno?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "NOKU - Ursus",
+    "mapsUrl": "https://www.google.com/maps/place/NOKU+-+Ursus/data=!4m7!3m6!1s0x4719352d60997d5d:0x66b5ab05e2ac6a48!8m2!3d52.2027919!4d20.8845568!16s%2Fg%2F11w1w1v8gj!19sChIJXX2ZYC01GUcRSGqs4gWrtWY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria T-Pizza Pruszków, Działkowa 4A",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+T-Pizza+Pruszk%C3%B3w,+Dzia%C5%82kowa+4A/data=!4m7!3m6!1s0x471935faf662829f:0xb1927cbaa0ac3f66!8m2!3d52.1549603!4d20.7879702!16s%2Fg%2F1vrq8d0m!19sChIJn4Ji9vo1GUcRZj-soLp8krE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x4719350059f83583:0x7bdcead22d57253b!8m2!3d52.1643819!4d20.7960308!16s%2Fg%2F11wvfmn0gm!19sChIJgzX4WQA1GUcROyVXLdLq3Hs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471935142586079d:0x7a78a6440ab26b91!8m2!3d52.1776812!4d20.7984149!16s%2Fg%2F11mcc7g67t!19sChIJnQeGJRQ1GUcRkWuyCkSmeHo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47193528fefff2f5:0xe668e80e499637a6!8m2!3d52.1786527!4d20.8194797!16s%2Fg%2F11wp75mrt5!19sChIJ9fL__ig1GUcRpjeWSQ7oaOY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x471935325d4f3bf3:0xf0dd8da13518bb35!8m2!3d52.1656977!4d20.8398555!16s%2Fg%2F11gx_yzkrz!19sChIJ8ztPXTI1GUcRNbsYNaGN3fA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x4719354f4037afa9:0xf2296817be217e95!8m2!3d52.1786536!4d20.8194662!16s%2Fg%2F11l25w7z5s!19sChIJqa83QE81GUcRlX4hvhdoKfI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x4719358d7a6e350f:0xe505d03f1f4d4a68!8m2!3d52.1678397!4d20.8008489!16s%2Fg%2F11fyzf1plb!19sChIJDzVueo01GUcRaEpNHz_QBeU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BaliBali Bistro - Restauracja Azjatycja Pruszków",
+    "mapsUrl": "https://www.google.com/maps/place/BaliBali+Bistro+-+Restauracja+Azjatycja+Pruszk%C3%B3w/data=!4m7!3m6!1s0x47193505b9098517:0x2b15b8e922872aee!8m2!3d52.1595305!4d20.8058029!16s%2Fg%2F11y3lw0kbv!19sChIJF4UJuQU1GUcR7iqHIum4FSs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47193595b5c8b29d:0x86e86481fe46ccc0!8m2!3d52.1659311!4d20.7967239!16s%2Fg%2F11x7z3k00p!19sChIJnbLItZU1GUcRwMxG_oFk6IY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x47193519ab462361:0xdb2c0bec8db97189!8m2!3d52.158803!4d20.8084187!16s%2Fg%2F11h3jc9jdv!19sChIJYSNGqxk1GUcRiXG5jewLLNs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Forno Rosso",
+    "mapsUrl": "https://www.google.com/maps/place/Forno+Rosso/data=!4m7!3m6!1s0x4719378ab438f7fb:0xc814d84cb7f662bc!8m2!3d52.0990835!4d20.7951921!16s%2Fg%2F11ssyhnlkx!19sChIJ-_c4tIo3GUcRvGL2t0zYFMg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x4719358fbedaf2ef:0x498cb7be943f1277!8m2!3d52.174268!4d20.804585!16s%2Fg%2F11c1rddzty!19sChIJ7_Lavo81GUcRdxI_lL63jEk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x471935ee7cc07239:0xf2b71134ebda2990!8m2!3d52.1600748!4d20.8019959!16s%2Fg%2F11dzswr_q6!19sChIJOXLAfO41GUcRkCna6zQRt_I?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471935080eb60f23:0xb1a0712755902c04!8m2!3d52.15472!4d20.81058!16s%2Fg%2F11qg1f8rgs!19sChIJIw-2Dgg1GUcRBCyQVSdxoLE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x4719359d74793b27:0x15fdb49d8cb4714a!8m2!3d52.1832121!4d20.8179895!16s%2Fg%2F11c1jh_xfy!19sChIJJzt5dJ01GUcRSnG0jJ20_RU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Prowincja",
+    "mapsUrl": "https://www.google.com/maps/place/Prowincja/data=!4m7!3m6!1s0x47194a7b91f1b1d9:0xa71bf20b8955be1c!8m2!3d52.1847088!4d20.7863831!16s%2Fg%2F12q4rwgl2!19sChIJ2bHxkXtKGUcRHL5ViQvyG6c?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka/data=!4m7!3m6!1s0x4719351c900575cf:0x10277497677a40f8!8m2!3d52.163722!4d20.806803!16s%2Fg%2F11fqzc2cnb!19sChIJz3UFkBw1GUcR-EB6Z5d0JxA?authuser=0&hl=pl&rclk=1"
+  }
+]

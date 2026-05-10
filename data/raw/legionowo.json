@@ -1,0 +1,470 @@
+[
+  {
+    "name": ".LABA",
+    "mapsUrl": "https://www.google.com/maps/place/.LABA/data=!4m7!3m6!1s0x47193348c4036c41:0xd9b36eb87a64628c!8m2!3d52.184567!4d21.011959!16s%2Fg%2F11twdwcn_p!19sChIJQWwDxEgzGUcRjGJkerhus9k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Due Amici",
+    "mapsUrl": "https://www.google.com/maps/place/Due+Amici/data=!4m7!3m6!1s0x471eb90002af9ced:0xaaac5fda08749067!8m2!3d52.3894509!4d20.921263!16s%2Fg%2F11y_xwmr5v!19sChIJ7ZyvAgC5HkcRZ5B0CNpfrKo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Legionowska",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Legionowska/data=!4m7!3m6!1s0x471eb83dba4409bb:0xe6e8a90c7604442!8m2!3d52.4009823!4d20.9300491!16s%2Fg%2F11bzx772ll!19sChIJuwlEuj24HkcRQkRgx5CKbg4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Local Cartel",
+    "mapsUrl": "https://www.google.com/maps/place/Local+Cartel/data=!4m7!3m6!1s0x471eb94441b74221:0xb48a243d220dc418!8m2!3d52.3876891!4d20.9292543!16s%2Fg%2F11stb5_x7h!19sChIJIUK3QUS5HkcRGMQNIj0kirQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Qlturalni Qlinarni Q&Q",
+    "mapsUrl": "https://www.google.com/maps/place/Qlturalni+Qlinarni+Q%26Q/data=!4m7!3m6!1s0x471eb92bc889bf7d:0x5ab96aa1cd0eabab!8m2!3d52.395099!4d20.9308581!16s%2Fg%2F11gpnhrndh!19sChIJfb-JyCu5HkcRq6sOzaFquVo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Fukuoka",
+    "mapsUrl": "https://www.google.com/maps/place/Fukuoka/data=!4m7!3m6!1s0x471eb9dd9989e3e7:0x62ee30b6cb4d379f!8m2!3d52.398984!4d20.9360199!16s%2Fg%2F11x74v0lzb!19sChIJ5-OJmd25HkcRnzdNy7Yw7mI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "The Goood Burger - Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/The+Goood+Burger+-+Legionowo/data=!4m7!3m6!1s0x471eb9d236f19217:0xb1b388e6c55aaa22!8m2!3d52.3890098!4d20.9210545!16s%2Fg%2F11x6z9zhlm!19sChIJF5LxNtK5HkcRIqpaxeaIs7E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "DARBAR Indian Restaurant Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/DARBAR+Indian+Restaurant+Legionowo/data=!4m7!3m6!1s0x471eb9dba6e8ffd1:0xa136dd1f2d792cb4!8m2!3d52.4019091!4d20.9299847!16s%2Fg%2F11wn3236tr!19sChIJ0f_optu5HkcRtCx5LR_dNqE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bite Spot",
+    "mapsUrl": "https://www.google.com/maps/place/Bite+Spot/data=!4m7!3m6!1s0x471eb9e6bd4f1c5b:0x41bcbb5bbc207377!8m2!3d52.3917133!4d20.9240863!16s%2Fg%2F11n9r2xlw0!19sChIJWxxPvea5HkcRd3MgvFu7vEE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Stara Szaszłykarnia \"Mała\"",
+    "mapsUrl": "https://www.google.com/maps/place/Stara+Szasz%C5%82ykarnia+%22Ma%C5%82a%22/data=!4m7!3m6!1s0x471eb9c2d4f4ddd1:0xda0327d0ce2ed70a!8m2!3d52.3990994!4d20.9368535!16s%2Fg%2F11j9f_8v_p!19sChIJ0d301MK5HkcRCtcuztAnA9o?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Zdrówko Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Zdr%C3%B3wko+Legionowo/data=!4m7!3m6!1s0x471eb901967b5db9:0x8a7f760828feed79!8m2!3d52.3984409!4d20.9346898!16s%2Fg%2F11j0qdcx3t!19sChIJuV17lgG5HkcRee3-KAh2f4o?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bistro Przystanek",
+    "mapsUrl": "https://www.google.com/maps/place/Bistro+Przystanek/data=!4m7!3m6!1s0x471eb970dfd919d7:0x2026dd4a1a49f1f!8m2!3d52.412113!4d20.91892!16s%2Fg%2F11m7202kww!19sChIJ1xnZ33C5HkcRH5-kodRtAgI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wok This Way",
+    "mapsUrl": "https://www.google.com/maps/place/Wok+This+Way/data=!4m7!3m6!1s0x471eb94d1e6ae4c9:0x4d51aa02a3758b10!8m2!3d52.391643!4d20.9237298!16s%2Fg%2F11z53snsfw!19sChIJyeRqHk25HkcREIt1owKqUU0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Welcome india Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Welcome+india+Legionowo/data=!4m7!3m6!1s0x471eb7006cded47f:0x5e3263abcb50ae27!8m2!3d52.3824614!4d20.9216105!16s%2Fg%2F11vzrvzy9q!19sChIJf9TebAC3HkcRJ65Qy6tjMl4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "PODKOWA, Zapiexa Domowa",
+    "mapsUrl": "https://www.google.com/maps/place/PODKOWA,+Zapiexa+Domowa/data=!4m7!3m6!1s0x471eb9fd16c656c5:0xc4b78567a93a44e2!8m2!3d52.3954448!4d20.9349332!16s%2Fg%2F11mm1gvj5z!19sChIJxVbGFv25HkcR4kQ6qWeFt8Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pierogarnia Poklejone Kluchy PIEROGI",
+    "mapsUrl": "https://www.google.com/maps/place/Pierogarnia+Poklejone+Kluchy+PIEROGI/data=!4m7!3m6!1s0x471eb9ba32809b9d:0x2df2c49dce9bae7f!8m2!3d52.3981291!4d20.9338445!16s%2Fg%2F11mgk8l0vd!19sChIJnZuAMrq5HkcRf66bzp3E8i0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Oaza",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Oaza/data=!4m7!3m6!1s0x471eb9050a5a3441:0x9f06743b3e4205e1!8m2!3d52.4096893!4d20.9158285!16s%2Fg%2F11h6bv18kj!19sChIJQTRaCgW5HkcR4QVCPjt0Bp8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Najleśnikarnia",
+    "mapsUrl": "https://www.google.com/maps/place/Najle%C5%9Bnikarnia/data=!4m7!3m6!1s0x471eb990adc96f3f:0xc7e398813b629b07!8m2!3d52.3974291!4d20.9355054!16s%2Fg%2F11yyzd4r2w!19sChIJP2_JrZC5HkcRB5tiO4GY48c?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "AUT RESTAURANT & BAR",
+    "mapsUrl": "https://www.google.com/maps/place/AUT+RESTAURANT+%26+BAR/data=!4m7!3m6!1s0x471eb83a86ad0363:0x743c71a334487ebd!8m2!3d52.4021695!4d20.9170873!16s%2Fg%2F1tgxs8vw!19sChIJYwOthjq4HkcRvX5INKNxPHQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Girasoli, sala bankietowa, pizza neapolitańska",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Girasoli,+sala+bankietowa,+pizza+neapolita%C5%84ska/data=!4m7!3m6!1s0x471eb8114ab72f8d:0x1c63a59d856ff63d!8m2!3d52.3995327!4d20.9412849!16s%2Fg%2F1tgn3h22!19sChIJjS-3ShG4HkcRPfZvhZ2lYxw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pierożkarnia Babci Niusi",
+    "mapsUrl": "https://www.google.com/maps/place/Piero%C5%BCkarnia+Babci+Niusi/data=!4m7!3m6!1s0x471eb909f07d6651:0x40756fa180e8dd0d!8m2!3d52.4004722!4d20.9392787!16s%2Fg%2F11lfzwnttl!19sChIJUWZ98Am5HkcRDd3ogKFvdUA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "TRUST BURGER & BAR",
+    "mapsUrl": "https://www.google.com/maps/place/TRUST+BURGER+%26+BAR/data=!4m7!3m6!1s0x471eb974fb06605b:0xf5981e71f8173be2!8m2!3d52.392702!4d20.935736!16s%2Fg%2F11fnvly5qv!19sChIJW2AG-3S5HkcR4jsX-HEemPU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Beirut House Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Beirut+House+Kebab/data=!4m7!3m6!1s0x471eb9a5d9a09773:0x52c4e9fbd5b1d44f!8m2!3d52.398073!4d20.9357069!16s%2Fg%2F11rqjctmc0!19sChIJc5eg2aW5HkcRT9Sx1fvpxFI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Vy Anh",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Vy+Anh/data=!4m7!3m6!1s0x471eb9002a72b20b:0x19e41b398cfc23bc!8m2!3d52.3875062!4d20.9256718!16s%2Fg%2F11nhm76jqr!19sChIJC7JyKgC5HkcRvCP8jDkb5Bk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "PARNIK Oryginalne Chińskie Pierogi",
+    "mapsUrl": "https://www.google.com/maps/place/PARNIK+Oryginalne+Chi%C5%84skie+Pierogi/data=!4m7!3m6!1s0x471eb9ec4f45cc69:0xcfa96fd89eb15aa3!8m2!3d52.3981719!4d20.9304192!16s%2Fg%2F11sq_tl5pv!19sChIJacxFT-y5HkcRo1qxnthvqc8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Hanoi",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Hanoi/data=!4m7!3m6!1s0x471eb810a4b1a05d:0xbb0bddcc4e521d25!8m2!3d52.3960921!4d20.9397751!16s%2Fg%2F11bxg0jbvl!19sChIJXaCxpBC4HkcRJR1STszdC7s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar U Kuzynów",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+U+Kuzyn%C3%B3w/data=!4m7!3m6!1s0x471eb817a70076c1:0xb26e30c9240d5a81!8m2!3d52.398221!4d20.9352538!16s%2Fg%2F11c74c3df7!19sChIJwXYApxe4HkcRgVoNJMkwbrI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cafe Bilard Wrzos",
+    "mapsUrl": "https://www.google.com/maps/place/Cafe+Bilard+Wrzos/data=!4m7!3m6!1s0x471eb80e57f78565:0x4a3eff2967e0fee5!8m2!3d52.3964451!4d20.9510702!16s%2Fg%2F11f5623vq6!19sChIJZYX3Vw64HkcR5f7gZyn_Pko?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SUSHI GO",
+    "mapsUrl": "https://www.google.com/maps/place/SUSHI+GO/data=!4m7!3m6!1s0x471eb81bd87a7e63:0x90e8db2751e01c45!8m2!3d52.3926122!4d20.9356049!16s%2Fg%2F1thfd5k7!19sChIJY3562Bu4HkcRRRzgUSfb6JA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sala Bankietowa i Restauracja FLORYDA Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Sala+Bankietowa+i+Restauracja+FLORYDA+Legionowo/data=!4m7!3m6!1s0x471eb9954aef4251:0x95544dec4f17c3bd!8m2!3d52.4016302!4d20.9268212!16s%2Fg%2F11rdwqd7nx!19sChIJUULvSpW5HkcRvcMXT-xNVJU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BAR BẢO QUÂN",
+    "mapsUrl": "https://www.google.com/maps/place/BAR+B%E1%BA%A2O+QU%C3%82N/data=!4m7!3m6!1s0x471eb90e17d3b49d:0x10acc8d3a01435da!8m2!3d52.3929731!4d20.9338512!16s%2Fg%2F11q9hqcz0q!19sChIJnbTTFw65HkcR2jUUoNPIrBA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria Mozzarella",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+Mozzarella/data=!4m7!3m6!1s0x471eb945b02259d5:0x69965ec52e205d87!8m2!3d52.3898877!4d20.9310157!16s%2Fg%2F11nx8c_q6f!19sChIJ1VkisEW5HkcRh10gLsVelmk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Chmiel i Słód",
+    "mapsUrl": "https://www.google.com/maps/place/Chmiel+i+S%C5%82%C3%B3d/data=!4m7!3m6!1s0x471eb817acdc1cd3:0xf5a1cf74c534ad9!8m2!3d52.399006!4d20.9353519!16s%2Fg%2F11bxg1jrmd!19sChIJ0xzcrBe4HkcR2UpTTPccWg8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Beef Burger",
+    "mapsUrl": "https://www.google.com/maps/place/Beef+Burger/data=!4m7!3m6!1s0x471eb817bd62ee97:0xe75dab5dcf28afa2!8m2!3d52.3979967!4d20.9339217!16s%2Fg%2F11b6tw9nnl!19sChIJl-5ivRe4HkcRoq8oz12rXec?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Limon & Grill | Gemüse Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Limon+%26+Grill+%7C+Gem%C3%BCse+Kebab/data=!4m7!3m6!1s0x471eb9429c680871:0xd1ccb726fd5372aa!8m2!3d52.3964577!4d20.9266157!16s%2Fg%2F11lz20x3zl!19sChIJcQhonEK5HkcRqnJT_Sa3zNE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Ostra Kreweta Sushi&Ramen&Asian Cusine",
+    "mapsUrl": "https://www.google.com/maps/place/Ostra+Kreweta+Sushi%26Ramen%26Asian+Cusine/data=!4m7!3m6!1s0x471eb948138cfe09:0x880523d0be21e7d1!8m2!3d52.3963599!4d20.9372319!16s%2Fg%2F11tjs6_vby!19sChIJCf6ME0i5HkcR0echvtAjBYg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cafe Verona Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Cafe+Verona+Legionowo/data=!4m7!3m6!1s0x471eb81bd87a7e63:0x51913a8ce451806d!8m2!3d52.3927723!4d20.9357884!16s%2Fg%2F1tjddyqn!19sChIJY3562Bu4HkcRbYBR5Iw6kVE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BOSKO Legionowo - Lody Produkcji Własnej",
+    "mapsUrl": "https://www.google.com/maps/place/BOSKO+Legionowo+-+Lody+Produkcji+W%C5%82asnej/data=!4m7!3m6!1s0x471eb818232ae07f:0x547662ab24c50d23!8m2!3d52.399309!4d20.9377365!16s%2Fg%2F11f5bnb8hg!19sChIJf-AqIxi4HkcRIw3FJKtidlQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Łasuch - Kuchnia polska",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+%C5%81asuch+-+Kuchnia+polska/data=!4m7!3m6!1s0x471eb8178f3995fb:0xce74c62654a2b42d!8m2!3d52.3941546!4d20.9288611!16s%2Fg%2F1ptxy0h_4!19sChIJ-5U5jxe4HkcRLbSiVCbGdM4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizza Na Wypasie by PNW Pizza Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Pizza+Na+Wypasie+by+PNW+Pizza+Legionowo/data=!4m7!3m6!1s0x471eb9f15cdf6851:0xd5c063179f6eed1!8m2!3d52.3975871!4d20.9487827!16s%2Fg%2F11ltkv_dqg!19sChIJUWjfXPG5HkcR0e72eTEGXA0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Tutto Bene Pizzeria",
+    "mapsUrl": "https://www.google.com/maps/place/Tutto+Bene+Pizzeria/data=!4m7!3m6!1s0x471eb940a0a8c985:0xcfb713581885c3a2!8m2!3d52.4026744!4d20.9463456!16s%2Fg%2F11h8ch9j6p!19sChIJhcmooEC5HkcRosOFGFgTt88?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kocia Kawiarnia Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Kocia+Kawiarnia+Legionowo/data=!4m7!3m6!1s0x471eb90054dcb487:0x154e32df423dcba1!8m2!3d52.3996837!4d20.9367399!16s%2Fg%2F11lzm4y1sy!19sChIJh7TcVAC5HkcRocs9Qt8yThU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sushi Bistro",
+    "mapsUrl": "https://www.google.com/maps/place/Sushi+Bistro/data=!4m7!3m6!1s0x471eb9bd36d9fd37:0x3611ec6099684230!8m2!3d52.4026151!4d20.9464665!16s%2Fg%2F11q1jsrlhj!19sChIJN_3ZNr25HkcRMEJomWDsETY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Klassiker Gemüse Kebap",
+    "mapsUrl": "https://www.google.com/maps/place/Klassiker+Gem%C3%BCse+Kebap/data=!4m7!3m6!1s0x471eb9e448b5f1e5:0xafecdd159fb76c65!8m2!3d52.396821!4d20.9336556!16s%2Fg%2F11lzkmcb_y!19sChIJ5fG1SOS5HkcRZWy3nxXd7K8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Król Kebaba",
+    "mapsUrl": "https://www.google.com/maps/place/Kr%C3%B3l+Kebaba/data=!4m7!3m6!1s0x471eb93f289d8263:0x53b5459089333e66!8m2!3d52.4004354!4d20.9413031!16s%2Fg%2F11s7756lx4!19sChIJY4KdKD-5HkcRZj4ziZBFtVM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kresowa",
+    "mapsUrl": "https://www.google.com/maps/place/Kresowa/data=!4m7!3m6!1s0x471eb813baefbb67:0x46312e819f4d97b0!8m2!3d52.4018428!4d20.9457564!16s%2Fg%2F1tjz6q35!19sChIJZ7vvuhO4HkcRsJdNn4EuMUY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria Oregano Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+Oregano+Legionowo/data=!4m7!3m6!1s0x471eb8165accca9d:0xc2fe55e3e0ec97a3!8m2!3d52.399661!4d20.9416153!16s%2Fg%2F11bc7d2x0w!19sChIJncrMWha4HkcRo5fs4ONV_sI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Thang Long",
+    "mapsUrl": "https://www.google.com/maps/place/Thang+Long/data=!4m7!3m6!1s0x471eb81968818299:0x7445e3822b83296e!8m2!3d52.3925141!4d20.9342487!16s%2Fg%2F11c2xsdp1y!19sChIJmYKBaBm4HkcRbimDK4LjRXQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria Matteo",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+Matteo/data=!4m7!3m6!1s0x471eb8112b4240cb:0x5ad2c3575d6cf37c!8m2!3d52.3982238!4d20.9401969!16s%2Fg%2F11bbrj_1bf!19sChIJy0BCKxG4HkcRfPNsXVfD0lo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "ADWENTUS Usługi Pogrzebowe i Kamieniarskie",
+    "mapsUrl": "https://www.google.com/maps/place/ADWENTUS+Us%C5%82ugi+Pogrzebowe+i+Kamieniarskie/data=!4m7!3m6!1s0x471eb835d9959fe1:0xc4fd7c462a8300d4!8m2!3d52.4137678!4d20.9254575!16s%2Fg%2F1tx4n308!19sChIJ4Z-V2TW4HkcR1ACDKkZ8_cQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sasori Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Sasori+Sushi/data=!4m7!3m6!1s0x471eb9ad4029b291:0x47c805934995fa3f!8m2!3d52.3971024!4d20.8962247!16s%2Fg%2F11j9m1dcgk!19sChIJkbIpQK25HkcRP_qVSZMFyEc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Set Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Set+Sushi/data=!4m7!3m6!1s0x471eb9a0d96b34c9:0x160d6668a4c55319!8m2!3d52.4104313!4d20.9159232!16s%2Fg%2F11kfb4bdwt!19sChIJyTRr2aC5HkcRGVPFpGhmDRY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "MEKONG - BAR ORIENTALNY LEGIONOWO",
+    "mapsUrl": "https://www.google.com/maps/place/MEKONG+-+BAR+ORIENTALNY+LEGIONOWO/data=!4m7!3m6!1s0x471eb81142615555:0x7bc6542998ca70f6!8m2!3d52.4101952!4d20.9145768!16s%2Fg%2F11hzjz1mgq!19sChIJVVVhQhG4HkcR9nDKmClUxns?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kawaii Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Kawaii+Sushi/data=!4m7!3m6!1s0x471eb839ee066ad5:0xcee5e15cb5f11681!8m2!3d52.3989166!4d20.9361238!16s%2Fg%2F11c5_y3kkg!19sChIJ1WoG7jm4HkcRgRbxtVzh5c4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Przystanek Pizza - pizza neapolitańska Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Przystanek+Pizza+-+pizza+neapolita%C5%84ska+Legionowo/data=!4m7!3m6!1s0x471eb836083cce23:0x47ce586abe81a178!8m2!3d52.4104631!4d20.9146168!16s%2Fg%2F11c75spg7m!19sChIJI848CDa4HkcReKGBvmpYzkc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Kucharski",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Kucharski/data=!4m7!3m6!1s0x471eb9d6b0c268cf:0xb1f83e4c221d474a!8m2!3d52.4009743!4d20.930134!16s%2Fg%2F11wmj2htb1!19sChIJz2jCsNa5HkcRSkcdIkw--LE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel & Restauracja Bankietowa Bukowiec",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+%26+Restauracja+Bankietowa+Bukowiec/data=!4m10!3m9!1s0x471eb81a2fa9aa67:0x1a34d971a6c59ae5!5m2!4m1!1i2!8m2!3d52.3937436!4d20.9371622!16s%2Fg%2F1tmqq374!19sChIJZ6qpLxq4HkcR5ZrFpnHZNBo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Karczma Jakuba",
+    "mapsUrl": "https://www.google.com/maps/place/Karczma+Jakuba/data=!4m7!3m6!1s0x471ec7e947e95edf:0xa7c53c45ba662881!8m2!3d52.3907832!4d20.9878638!16s%2Fg%2F11fxvwxqt9!19sChIJ317pR-nHHkcRgShmukU8xac?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SOUL",
+    "mapsUrl": "https://www.google.com/maps/place/SOUL/data=!4m7!3m6!1s0x471eb900528b3519:0xf9aa673a51fcc749!8m2!3d52.3989184!4d20.9318602!16s%2Fg%2F11z5d7b82y!19sChIJGTWLUgC5HkcRScf8UTpnqvk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "AFTER",
+    "mapsUrl": "https://www.google.com/maps/place/AFTER/data=!4m7!3m6!1s0x471eb9d6370cc609:0x45908b592fc60ac2!8m2!3d52.3898361!4d20.9306874!16s%2Fg%2F11lty132c_!19sChIJCcYMN9a5HkcRwgrGL1mLkEU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gruba Kaśka",
+    "mapsUrl": "https://www.google.com/maps/place/Gruba+Ka%C5%9Bka/data=!4m7!3m6!1s0x471eb96f42aad713:0xde94ce68dddf02ff!8m2!3d52.3949902!4d20.9176256!16s%2Fg%2F11hnykfy2r!19sChIJE9eqQm-5HkcR_wLf3WjOlN4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cukiernia - Marek Stachurski",
+    "mapsUrl": "https://www.google.com/maps/place/Cukiernia+-+Marek+Stachurski/data=!4m7!3m6!1s0x471eb83c780dccbf:0x1273d7f8895d5309!8m2!3d52.4014802!4d20.9251879!16s%2Fg%2F1tfgb_8h!19sChIJv8wNeDy4HkcRCVNdifjXcxI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "EBI SUSHI Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/EBI+SUSHI+Legionowo/data=!4m7!3m6!1s0x471eb819df87530f:0xf95e65a67e243d40!8m2!3d52.3950117!4d20.9307489!16s%2Fg%2F1hhx3189l!19sChIJD1OH3xm4HkcRQD0kfqZlXvk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kuchnia z duszą",
+    "mapsUrl": "https://www.google.com/maps/place/Kuchnia+z+dusz%C4%85/data=!4m7!3m6!1s0x471eb9a48062944b:0xcceadf6d7f54ee93!8m2!3d52.420766!4d20.9260702!16s%2Fg%2F11h1qtmb_1!19sChIJS5RigKS5HkcRk-5Uf23f6sw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KEBAB LAND Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/KEBAB+LAND+Legionowo/data=!4m7!3m6!1s0x471eb9c4dfc0a0ad:0x7416adb9533ee323!8m2!3d52.4017692!4d20.9295998!16s%2Fg%2F11wqn_hkh4!19sChIJraDA38S5HkcRI-M-U7mtFnQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sklep Zielarski Eko Zdrowie",
+    "mapsUrl": "https://www.google.com/maps/place/Sklep+Zielarski+Eko+Zdrowie/data=!4m7!3m6!1s0x471eb8171a68f8d1:0x98a5ec77de941761!8m2!3d52.3980375!4d20.9367328!16s%2Fg%2F1tgkg0v4!19sChIJ0fhoGhe4HkcRYReU3nfspZg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pracownia Cukiernicza K.M. Stachurscy 1978 Sp. Z o.o.",
+    "mapsUrl": "https://www.google.com/maps/place/Pracownia+Cukiernicza+K.M.+Stachurscy+1978+Sp.+Z+o.o./data=!4m7!3m6!1s0x471eb816ca982755:0x699bd6c550276df!8m2!3d52.3994323!4d20.9407068!16s%2Fg%2F11c45qqf__!19sChIJVSeYyha4HkcR33YCVWy9mQY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "NOVA SUSHI Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/NOVA+SUSHI+Legionowo/data=!4m7!3m6!1s0x471eb9b22158f545:0xf6862ffb1822ac79!8m2!3d52.3895971!4d20.9220098!16s%2Fg%2F11r6sbjtry!19sChIJRfVYIbK5HkcReawiGPsvhvY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cukieteria Romanowski",
+    "mapsUrl": "https://www.google.com/maps/place/Cukieteria+Romanowski/data=!4m7!3m6!1s0x471eb8182208e52f:0x67896785a6e58d30!8m2!3d52.3963732!4d20.9318532!16s%2Fg%2F11f06j1ktl!19sChIJL-UIIhi4HkcRMI3lpoVniWc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Mega Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Mega+Kebab/data=!4m7!3m6!1s0x471eb812cd6fac93:0xadd810746fd7ba28!8m2!3d52.4045151!4d20.9504395!16s%2Fg%2F11bzv_krf9!19sChIJk6xvzRK4HkcRKLrXb3QQ2K0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Delikatesy \"Bajka\"",
+    "mapsUrl": "https://www.google.com/maps/place/Delikatesy+%22Bajka%22/data=!4m7!3m6!1s0x471eb81fa5c7649f:0xfb524f35ff58086b!8m2!3d52.3887895!4d20.9273041!16s%2Fg%2F11hb8vgc8j!19sChIJn2THpR-4HkcRawhY_zVPUvs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pokoje gościnne Tomasz Zaporowski",
+    "mapsUrl": "https://www.google.com/maps/place/Pokoje+go%C5%9Bcinne+Tomasz+Zaporowski/data=!4m7!3m6!1s0x471eb9edcc8a2f2d:0xfdc90043f4115328!8m2!3d52.4075729!4d20.9616653!16s%2Fg%2F11h7kpx73y!19sChIJLS-KzO25HkcRKFMR9EMAyf0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+Legionowo/data=!4m7!3m6!1s0x471eb995364dcf2b:0x87408bd991463963!8m2!3d52.3915773!4d20.9248744!16s%2Fg%2F11fpj77s_f!19sChIJK89NNpW5HkcRYzlGkdmLQIc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Green Caffe Nero",
+    "mapsUrl": "https://www.google.com/maps/place/Green+Caffe+Nero/data=!4m7!3m6!1s0x471eb818261efff1:0xfbf73b144e5a97e4!8m2!3d52.3966297!4d20.9331313!16s%2Fg%2F11dyym663p!19sChIJ8f8eJhi4HkcR5JdaThQ79_s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Silver Dragon",
+    "mapsUrl": "https://www.google.com/maps/place/Silver+Dragon/data=!4m7!3m6!1s0x471eb8188e372a6d:0x4735af0716e16e36!8m2!3d52.3943038!4d20.9292568!16s%2Fg%2F11clll02lj!19sChIJbSo3jhi4HkcRNm7hFgevNUc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Aldar-catering",
+    "mapsUrl": "https://www.google.com/maps/place/Aldar-catering/data=!4m7!3m6!1s0x471eb86fcb6890f5:0xb129005815cde29e!8m2!3d52.411756!4d20.957661!16s%2Fg%2F11c0rhybxl!19sChIJ9ZBoy2-4HkcRnuLNFVgAKbE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Urfa Kebab Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Urfa+Kebab+Legionowo/data=!4m7!3m6!1s0x471eb90dda62eff5:0xc8f04d612448291f!8m2!3d52.3992767!4d20.9365978!16s%2Fg%2F11ffm830v0!19sChIJ9e9i2g25HkcRHylIJGFN8Mg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Prime Doner and Grill Bar - kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Prime+Doner+and+Grill+Bar+-+kebab/data=!4m7!3m6!1s0x471eb817995cdea7:0xdd7ce2b75e5f4054!8m2!3d52.3972626!4d20.9349292!16s%2Fg%2F1tfcrzt1!19sChIJp95cmRe4HkcRVEBfXrfifN0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizzeria Biesiadowo Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Pizzeria+Biesiadowo+Legionowo/data=!4m7!3m6!1s0x471eb81f0ef6cbc5:0x96baf9f967bb6dc2!8m2!3d52.3900414!4d20.9274915!16s%2Fg%2F12qh1b0cr!19sChIJxcv2Dh-4HkcRwm27Z_n5upY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bafra Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Bafra+Kebab/data=!4m7!3m6!1s0x471eb9fca0579591:0x788110043404830a!8m2!3d52.3906011!4d20.9214161!16s%2Fg%2F11wp70ld1z!19sChIJkZVXoPy5HkcRCoMENAQQgXg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel i Restauracja Prezydencka Noclegi Pokoje Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+i+Restauracja+Prezydencka+Noclegi+Pokoje+Legionowo/data=!4m10!3m9!1s0x471eb818fd929563:0xcfde492e3fc2552b!5m2!4m1!1i2!8m2!3d52.392601!4d20.9306958!16s%2Fg%2F1tdkkzst!19sChIJY5WS_Ri4HkcRK1XCPy5J3s8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja McDonald's",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+McDonald%27s/data=!4m7!3m6!1s0x471eb81a01585e6b:0x535015b4673ef53b!8m2!3d52.395579!4d20.937485!16s%2Fg%2F1tdnvnb3!19sChIJa15YARq4HkcRO_U-Z7QVUFM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Galeria Gondola Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Galeria+Gondola+Legionowo/data=!4m7!3m6!1s0x471eb8182873671f:0x595033b2d2aab5af!8m2!3d52.3964219!4d20.9333747!16s%2Fg%2F11c1sjvm5x!19sChIJH2dzKBi4HkcRr7Wq0rIzUFk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Thai Wook",
+    "mapsUrl": "https://www.google.com/maps/place/Thai+Wook/data=!4m7!3m6!1s0x471eb810aa5018bb:0xfd1d74d0d670fc00!8m2!3d52.3949937!4d20.9307407!16s%2Fg%2F11flvvyhlb!19sChIJuxhQqhC4HkcRAPxw1tB0Hf0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kwatery Pracownicze Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Kwatery+Pracownicze+Legionowo/data=!4m10!3m9!1s0x471eb9fdb7127587:0x31d004eb8087075b!5m2!4m1!1i2!8m2!3d52.4141456!4d20.9422015!16s%2Fg%2F11n144sg0g!19sChIJh3USt_25HkcRWweHgOsE0DE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Karczma Gruba Kaśka",
+    "mapsUrl": "https://www.google.com/maps/place/Karczma+Gruba+Ka%C5%9Bka/data=!4m7!3m6!1s0x471eb9079f49423f:0x588ff1a6e5630ca1!8m2!3d52.4221167!4d20.9374129!16s%2Fg%2F11gy717y20!19sChIJP0JJnwe5HkcRoQxj5abxj1g?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Da Grasso",
+    "mapsUrl": "https://www.google.com/maps/place/Da+Grasso/data=!4m7!3m6!1s0x471eb821b225914d:0x391213401d62f9fd!8m2!3d52.3959544!4d20.935792!16s%2Fg%2F1tjysc5w!19sChIJTZElsiG4HkcR_fliHUATEjk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sparrow Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Sparrow+Pizza/data=!4m7!3m6!1s0x471eb81892b91beb:0x4bb68bd74ce4128f!8m2!3d52.3939478!4d20.9298455!16s%2Fg%2F1w4f6v_p!19sChIJ6xu5khi4HkcRjxLkTNeLtks?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Legionowo/data=!4m7!3m6!1s0x471eb81510a31389:0x3be6898195b3ce0c!8m2!3d52.4044483!4d20.9499698!16zL20vMDIyYjNy!19sChIJiROjEBW4HkcRDM6zlYGJ5js?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb9f086638f0b:0xc16f88d23a0b3ba5!8m2!3d52.3946142!4d20.9293619!16s%2Fg%2F11yjx9dngs!19sChIJC49jhvC5HkcRpTsLOtKIb8E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Legionowo/data=!4m7!3m6!1s0x471eb814011249c3:0x9baf97d3c18dd5f!8m2!3d52.4014314!4d20.9414709!16s%2Fg%2F11bc6c6ydy!19sChIJw0kSARS4HkcRX90YPH35ugk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Ali Baba Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Ali+Baba+Kebab/data=!4m7!3m6!1s0x471eb816abdd36e1:0x3376d887ec3e420f!8m2!3d52.4005979!4d20.9411082!16s%2Fg%2F11bwny8trk!19sChIJ4Tbdqxa4HkcRD0I-7IfYdjM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb96bcae04be5:0x8f87444a10d3b945!8m2!3d52.3989658!4d20.9270699!16s%2Fg%2F11lzhtskfn!19sChIJ5Uvgymu5HkcRRbnTEEpEh48?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "GALERIA ZEGRZYŃSKA",
+    "mapsUrl": "https://www.google.com/maps/place/GALERIA+ZEGRZY%C5%83SKA/data=!4m7!3m6!1s0x471eb813a7bf8ad7:0xd0cdf6c5169acf83!8m2!3d52.4024984!4d20.9463345!16s%2Fg%2F11g02c_dfn!19sChIJ14q_pxO4HkcRg8-aFsX2zdA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cukiernia Sowa Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Cukiernia+Sowa+Legionowo/data=!4m7!3m6!1s0x471eb8187a4ca595:0xfc63eb9c33f79408!8m2!3d52.3968012!4d20.9332972!16s%2Fg%2F11b7kknrc2!19sChIJlaVMehi4HkcRCJT3M5zrY_w?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb9c194db7299:0x74363e3f5ae93ea!8m2!3d52.397891!4d20.9297013!16s%2Fg%2F11xg8vqwx0!19sChIJmXLblMG5HkcR6pOu9eNjQwc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KFC Jabłonna",
+    "mapsUrl": "https://www.google.com/maps/place/KFC+Jab%C5%82onna/data=!4m7!3m6!1s0x471eb71e1cd7d827:0x7ebe244545eaf462!8m2!3d52.3841588!4d20.9257561!16s%2Fg%2F11j4fktwz3!19sChIJJ9jXHB63HkcRYvTqRUUkvn4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab Grand Jabłonna",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+Grand+Jab%C5%82onna/data=!4m7!3m6!1s0x471eb782ac8fbd1b:0xf092692cad8a83f5!8m2!3d52.3824614!4d20.9216105!16s%2Fg%2F11tm_g4_w5!19sChIJG72PrIK3HkcR9YOKrSxpkvA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Świerkowa 26 TanieSpanie",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%9Awierkowa+26+TanieSpanie/data=!4m7!3m6!1s0x471eb93e0d7f1c13:0x4d0831457e23b539!8m2!3d52.4187347!4d20.9096956!16s%2Fg%2F11jv3cdbk9!19sChIJExx_DT65HkcRObUjfkUxCE0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Domino's Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Domino%27s+Pizza/data=!4m7!3m6!1s0x471eb818f9f4f4e9:0xd500b0cb543bd746!8m2!3d52.3943059!4d20.9310603!16s%2Fg%2F11gc8gnrz3!19sChIJ6fT0-Ri4HkcRRtc7VMuwANU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Piekarnia Cukiernia Grzybki",
+    "mapsUrl": "https://www.google.com/maps/place/Piekarnia+Cukiernia+Grzybki/data=!4m7!3m6!1s0x471eb9d31790c29b:0xf94651d626f2bd24!8m2!3d52.3942362!4d20.9309959!16s%2Fg%2F11rsr4mrh6!19sChIJm8KQF9O5HkcRJL3yJtZRRvk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kwatery pracownicze Wynajem Pokoi Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/Kwatery+pracownicze+Wynajem+Pokoi+Legionowo/data=!4m7!3m6!1s0x471eb825eb39e7d3:0xf2237c8ea89b70cf!8m2!3d52.396282!4d20.913392!16s%2Fg%2F1tfslr39!19sChIJ0-c56yW4HkcRz3CbqI58I_I?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shell",
+    "mapsUrl": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x471eb8125677993b:0xfd65b16cdd1abb9c!8m2!3d52.402548!4d20.947882!16s%2Fg%2F11b7m97879!19sChIJO5l3VhK4HkcRnLsa3WyxZf0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "AM AM KEBAB Legionowo",
+    "mapsUrl": "https://www.google.com/maps/place/AM+AM+KEBAB+Legionowo/data=!4m7!3m6!1s0x471eb9c1e3b8b933:0xf2b79779105bbe8e!8m2!3d52.4209518!4d20.9273166!16s%2Fg%2F11v0lqr6ts!19sChIJM7m448G5HkcRjr5bEHmXt_I?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sklep \"Żabka\"",
+    "mapsUrl": "https://www.google.com/maps/place/Sklep+%22%C5%BBabka%22/data=!4m7!3m6!1s0x471eb8137f6cc57d:0xf36d546835f1b728!8m2!3d52.403088!4d20.944182!16s%2Fg%2F11bx89vm99!19sChIJfcVsfxO4HkcRKLfxNWhUbfM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizza Hut Legionowo Gondola",
+    "mapsUrl": "https://www.google.com/maps/place/Pizza+Hut+Legionowo+Gondola/data=!4m7!3m6!1s0x471eb81827f98af5:0xda871a16bdba9af1!8m2!3d52.3966352!4d20.9330943!16s%2Fg%2F11f03qxvgx!19sChIJ9Yr5Jxi4HkcR8Zq6vRYah9o?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Piekarnia Cukiernia Grzybki sklep firmowy",
+    "mapsUrl": "https://www.google.com/maps/place/Piekarnia+Cukiernia+Grzybki+sklep+firmowy/data=!4m7!3m6!1s0x471eb9beb1e8291b:0x6964ef3ec9eeacc0!8m2!3d52.4048488!4d20.9494607!16s%2Fg%2F11fm3gpycy!19sChIJGynosb65HkcRwKzuyT7vZGk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb9237624b58d:0x89438b49e452801b!8m2!3d52.3875401!4d20.929043!16s%2Fg%2F11wp7tpmtj!19sChIJjbUkdiO5HkcRG4BS5EmLQ4k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb9000c2a0b77:0x3abf41ba183444d5!8m2!3d52.3938169!4d20.9200729!16s%2Fg%2F11whxrj4rl!19sChIJdwsqDAC5HkcR1UQ0GLpBvzo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hokanosushi",
+    "mapsUrl": "https://www.google.com/maps/place/Hokanosushi/data=!4m7!3m6!1s0x471eb939ea55da2f:0xf3c3c11b66550d3e!8m2!3d52.4085974!4d20.961116!16s%2Fg%2F11fs_vwrlc!19sChIJL9pV6jm5HkcRPg1VZhvBw_M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb9e16ee14adf:0x144780bda6c3fa40!8m2!3d52.3995925!4d20.9389681!16s%2Fg%2F11xh563rfw!19sChIJ30rhbuG5HkcRQPrDpr2ARxQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb9e23287a263:0xb4b623e461a85bf5!8m2!3d52.389204!4d20.92098!16s%2Fg%2F11yc3sb2yx!19sChIJY6KHMuK5HkcR9VuoYeQjtrQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel i Restauracja \"Różany Dwór\"",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+i+Restauracja+%22R%C3%B3%C5%BCany+Dw%C3%B3r%22/data=!4m7!3m6!1s0x471eb8e3aebb12d9:0x5b6c0d0f3ae3c32!8m2!3d52.4486023!4d20.9298617!16s%2Fg%2F11b7783221!19sChIJ2RK7ruO4HkcRMjyu89DAtgU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb8183e8f4701:0xf08f1732b3950b08!8m2!3d52.3956225!4d20.9315887!16s%2Fg%2F11dxrv6lgz!19sChIJAUePPhi4HkcRCAuVszIXj_A?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb82042802bf1:0x9ef3e6203a6df8ed!8m2!3d52.3916908!4d20.9210065!16s%2Fg%2F11f3xn8qmn!19sChIJ8SuAQiC4HkcR7fhtOiDm854?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x471eb985d9280cbb:0xa59ffc838c6e08cd!8m2!3d52.412043!4d20.9156381!16s%2Fg%2F11jgnqwccp!19sChIJuwwo2YW5HkcRzQhujIP8n6U?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pokoje Gościnne Artes",
+    "mapsUrl": "https://www.google.com/maps/place/Pokoje+Go%C5%9Bcinne+Artes/data=!4m7!3m6!1s0x471eb81e66e0b711:0x6cb47c0f57fefcc3!8m2!3d52.388438!4d20.930269!16s%2Fg%2F11fkmz7s_t!19sChIJEbfgZh64HkcRw_z-Vw98tGw?authuser=0&hl=pl&rclk=1"
+  }
+]

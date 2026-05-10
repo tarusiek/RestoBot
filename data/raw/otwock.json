@@ -1,0 +1,478 @@
+[
+  {
+    "name": ".LABA",
+    "mapsUrl": "https://www.google.com/maps/place/.LABA/data=!4m7!3m6!1s0x47193348c4036c41:0xd9b36eb87a64628c!8m2!3d52.184567!4d21.011959!16s%2Fg%2F11twdwcn_p!19sChIJQWwDxEgzGUcRjGJkerhus9k?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Nova",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Nova/data=!4m7!3m6!1s0x47192b12207a244d:0x5d8aa6653cb97050!8m2!3d52.1119265!4d21.2622031!16s%2Fg%2F11nnvy59lt!19sChIJTSR6IBIrGUcRUHC5PGWmil0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dom Restauracyjny Kuznia Pod Kogutami",
+    "mapsUrl": "https://www.google.com/maps/place/Dom+Restauracyjny+Kuznia+Pod+Kogutami/data=!4m7!3m6!1s0x47192b9e759c46af:0x79caea4a4d315be0!8m2!3d52.1084772!4d21.2342945!16s%2Fg%2F11y84f8jdr!19sChIJr0acdZ4rGUcR4FsxTUrqynk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Show Club & Restaurant",
+    "mapsUrl": "https://www.google.com/maps/place/Show+Club+%26+Restaurant/data=!4m7!3m6!1s0x47192a8cbf11ecc7:0x99ca978d2ee3d5a7!8m2!3d52.1088689!4d21.2612523!16s%2Fg%2F1tmptqr7!19sChIJx-wRv4wqGUcRp9XjLo2Xypk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bistro Merano",
+    "mapsUrl": "https://www.google.com/maps/place/Bistro+Merano/data=!4m7!3m6!1s0x47192a897c188373:0x4270a2092760272b!8m2!3d52.1041491!4d21.2658435!16s%2Fg%2F1tsr1yjy!19sChIJc4MYfIkqGUcRKydgJwmicEI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gustaw Otwock",
+    "mapsUrl": "https://www.google.com/maps/place/Gustaw+Otwock/data=!4m7!3m6!1s0x47192b7b2f0cc6bb:0xac03a44298c69a52!8m2!3d52.105401!4d21.2608601!16s%2Fg%2F11vwz32k5p!19sChIJu8YML3srGUcRUprGmEKkA6w?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Don Pastro Street Food OTWOCK",
+    "mapsUrl": "https://www.google.com/maps/place/Don+Pastro+Street+Food+OTWOCK/data=!4m7!3m6!1s0x47192b7ce78758e5:0x71df7fc59de74c8!8m2!3d52.1026191!4d21.2632525!16s%2Fg%2F11fswvxqmx!19sChIJ5ViH53wrGUcRyHTeWfz3HQc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "W Kromce - Kawiarnia - Street Food",
+    "mapsUrl": "https://www.google.com/maps/place/W+Kromce+-+Kawiarnia+-+Street+Food/data=!4m7!3m6!1s0x47192b197adb37ab:0xfa9dacaa8a7de87f!8m2!3d52.1085977!4d21.2625194!16s%2Fg%2F11x21crzx4!19sChIJqzfbehkrGUcRf-h9iqqsnfo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Nowy Gurewicz",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Nowy+Gurewicz/data=!4m10!3m9!1s0x47192bbb3cec682b:0xde6f6a755190d77e!5m2!4m1!1i2!8m2!3d52.1026111!4d21.2707961!16s%2Fg%2F11np0grqt2!19sChIJK2jsPLsrGUcRfteQUXVqb94?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja LOVT",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+LOVT/data=!4m7!3m6!1s0x47192b1afa469767:0xfd8e4eb47d4351fa!8m2!3d52.0994942!4d21.2745782!16s%2Fg%2F11y3wnp3rh!19sChIJZ5dG-horGUcR-lFDfbROjv0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sala Bankietowa Stylowa w Otwocku",
+    "mapsUrl": "https://www.google.com/maps/place/Sala+Bankietowa+Stylowa+w+Otwocku/data=!4m7!3m6!1s0x47192a8c5a75308f:0x441b72458bc3d312!8m2!3d52.1087646!4d21.2653102!16s%2Fg%2F1vbl69yr!19sChIJjzB1WowqGUcREtPDi0VyG0Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Mobilne Bistro KiloGram",
+    "mapsUrl": "https://www.google.com/maps/place/Mobilne+Bistro+KiloGram/data=!4m7!3m6!1s0x47192bb55c14706f:0xc276d0998fc657d8!8m2!3d52.1028077!4d21.2669163!16s%2Fg%2F11mzrr0ltb!19sChIJb3AUXLUrGUcR2FfGj5nQdsI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "A2 Sushi&pierogi",
+    "mapsUrl": "https://www.google.com/maps/place/A2+Sushi%26pierogi/data=!4m7!3m6!1s0x47192a8ca0cceb81:0xf8fa9f0296dcdc72!8m2!3d52.1076487!4d21.2612754!16s%2Fg%2F1vppr884!19sChIJgevMoIwqGUcRctzclgKf-vg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Schabowy Kuchnia Polska Obiady domowe",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Schabowy+Kuchnia+Polska+Obiady+domowe/data=!4m7!3m6!1s0x47192bb9cf76eb0f:0xd53fb39498543657!8m2!3d52.1022751!4d21.2634245!16s%2Fg%2F11vb865n64!19sChIJD-t2z7krGUcRVzZUmJSzP9U?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "kaszmir Restauracja indyjska",
+    "mapsUrl": "https://www.google.com/maps/place/kaszmir+Restauracja+indyjska/data=!4m7!3m6!1s0x47192b06630d1e69:0xb33557931632643d!8m2!3d52.1190264!4d21.2474974!16s%2Fg%2F11lfg_9b8j!19sChIJaR4NYwYrGUcRPWQyFpNXNbM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Werbena Otwock",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Werbena+Otwock/data=!4m7!3m6!1s0x47192afe7cb983d5:0xb3ed0bee9721f6ad!8m2!3d52.1125155!4d21.2302522!16s%2Fg%2F1hc31pxfp!19sChIJ1YO5fP4qGUcRrfYhl-4L7bM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "M-Kwadrat",
+    "mapsUrl": "https://www.google.com/maps/place/M-Kwadrat/data=!4m7!3m6!1s0x47192a631caaf4cb:0xc959f200788faa59!8m2!3d52.0980032!4d21.2657309!16s%2Fg%2F1vxcv4mp!19sChIJy_SqHGMqGUcRWaqPeADyWck?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Nefis Kebab&Joy",
+    "mapsUrl": "https://www.google.com/maps/place/Nefis+Kebab%26Joy/data=!4m7!3m6!1s0x47192b00259c31b7:0xddc690176a2ab7af!8m2!3d52.107834!4d21.2596502!16s%2Fg%2F11wfskppjg!19sChIJtzGcJQArGUcRr7cqaheQxt0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "BARAK Burger chill & grill Otwock",
+    "mapsUrl": "https://www.google.com/maps/place/BARAK+Burger+chill+%26+grill+Otwock/data=!4m7!3m6!1s0x47192a8a3bdfd831:0x14cb84a534de41cf!8m2!3d52.1034665!4d21.2631053!16s%2Fg%2F11f3tw04rb!19sChIJMdjfO4oqGUcRz0HeNKWEyxQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Nowy Gurewicz Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Nowy+Gurewicz+Cafe/data=!4m7!3m6!1s0x47192a8860ce3ead:0x8c001b48fdea9c45!8m2!3d52.1021069!4d21.2709901!16s%2Fg%2F11w9t6z7fz!19sChIJrT7OYIgqGUcRRZzq_UgbAIw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Lipowy Gościniec",
+    "mapsUrl": "https://www.google.com/maps/place/Lipowy+Go%C5%9Bciniec/data=!4m10!3m9!1s0x471929ff420f70f5:0xba3ba35aea7fc315!5m2!4m1!1i2!8m2!3d52.057111!4d21.2480529!16s%2Fg%2F1tggmd1f!19sChIJ9XAPQv8pGUcRFcN_6lqjO7o?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sosenka",
+    "mapsUrl": "https://www.google.com/maps/place/Sosenka/data=!4m7!3m6!1s0x47192a7d3292e925:0x98ae0f6a382382cd!8m2!3d52.0983196!4d21.2695339!16s%2Fg%2F1tg9rff4!19sChIJJemSMn0qGUcRzYIjOGoPrpg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Grillczak - Kurczaki z rożna i chrupiące czebureki",
+    "mapsUrl": "https://www.google.com/maps/place/Grillczak+-+Kurczaki+z+ro%C5%BCna+i+chrupi%C4%85ce+czebureki/data=!4m7!3m6!1s0x47192b3df66adf57:0x6fb3b3bfae3a43ee!8m2!3d52.1057206!4d21.2607756!16s%2Fg%2F11xsqsggv9!19sChIJV99q9j0rGUcR7kM6rr-zs28?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Cafe Lokomotywa Galeria Forum",
+    "mapsUrl": "https://www.google.com/maps/place/Cafe+Lokomotywa+Galeria+Forum/data=!4m7!3m6!1s0x47192af2b1529b29:0x59482c10bdf4fdbd!8m2!3d52.1101728!4d21.2572691!16s%2Fg%2F1v299rvc!19sChIJKZtSsfIqGUcRvf30vRAsSFk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Rokola. Restauracja",
+    "mapsUrl": "https://www.google.com/maps/place/Rokola.+Restauracja/data=!4m7!3m6!1s0x47192a122bc7317f:0xe9a1f63752f069d!8m2!3d52.0762136!4d21.2483884!16s%2Fg%2F1tlbh9cs!19sChIJfzHHKxIqGUcRnQYvdWMfmg4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Rybaczówka",
+    "mapsUrl": "https://www.google.com/maps/place/Rybacz%C3%B3wka/data=!4m7!3m6!1s0x4719291336d65041:0xb861485f337bf1e2!8m2!3d52.0494516!4d21.2312109!16s%2Fg%2F11grbt7xpy!19sChIJQVDWNhMpGUcR4vF7M19IYbg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pensjonat Abrama Gurewicza",
+    "mapsUrl": "https://www.google.com/maps/place/Pensjonat+Abrama+Gurewicza/data=!4m7!3m6!1s0x47192a8864055555:0x9333f04edf4e6485!8m2!3d52.102415!4d21.2710545!16s%2Fg%2F11gdkk86n5!19sChIJVVUFZIgqGUcRhWRO307wM5M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "LOCH Cocktail Bar & Restaurant",
+    "mapsUrl": "https://www.google.com/maps/place/LOCH+Cocktail+Bar+%26+Restaurant/data=!4m7!3m6!1s0x47192b73140550a5:0x12ee5fbe87b525dd!8m2!3d52.1060588!4d21.2647326!16s%2Fg%2F11ltkqls2b!19sChIJpVAFFHMrGUcR3SW1h75f7hI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Wino na Widelcu",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Wino+na+Widelcu/data=!4m7!3m6!1s0x47192adfc2bd9c9f:0xda9ac02e3fc1c831!8m2!3d52.1282361!4d21.2431578!16s%2Fg%2F11b5qvt2mp!19sChIJn5y9wt8qGUcRMcjBPy7Amto?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kebab 7 star & grill",
+    "mapsUrl": "https://www.google.com/maps/place/Kebab+7+star+%26+grill/data=!4m7!3m6!1s0x4718d5ddd5406231:0x4f1db361f0f187e8!8m2!3d52.1034967!4d21.2973583!16s%2Fg%2F11z3_0tbqt!19sChIJMWJA1d3VGEcR6Ifx8GGzHU8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Z-Hotel Business & Spa",
+    "mapsUrl": "https://www.google.com/maps/place/Z-Hotel+Business+%26+Spa/data=!4m10!3m9!1s0x47192afe7cb983d5:0x4d54b0c0129206f8!5m2!4m1!1i2!8m2!3d52.1122882!4d21.2307612!16s%2Fg%2F1vgw7cmr!19sChIJ1YO5fP4qGUcR-AaSEsCwVE0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja Le Cher",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+Le+Cher/data=!4m7!3m6!1s0x47192a631caaf4cb:0xe650c805cb8c7923!8m2!3d52.0977647!4d21.2652521!16s%2Fg%2F1tm09k9h!19sChIJy_SqHGMqGUcRI3mMywXIUOY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Zapiekanki Local",
+    "mapsUrl": "https://www.google.com/maps/place/Zapiekanki+Local/data=!4m7!3m6!1s0x47192a8cb05a9b5f:0x7de5c1edc3de348f!8m2!3d52.1077405!4d21.2604265!16s%2Fg%2F11cn0rwdr9!19sChIJX5tasIwqGUcRjzTew-3B5X0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kawiarnia Cafe Renè",
+    "mapsUrl": "https://www.google.com/maps/place/Kawiarnia+Cafe+Ren%C3%A8/data=!4m7!3m6!1s0x47192b004000358b:0xaa3546c4892196b9!8m2!3d52.1079887!4d21.2597763!16s%2Fg%2F11wc3074sm!19sChIJizUAQAArGUcRuZYhicRGNao?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Florencja-Włoskie Smaki",
+    "mapsUrl": "https://www.google.com/maps/place/Florencja-W%C5%82oskie+Smaki/data=!4m7!3m6!1s0x47192a6303624043:0xa06241318bf1e3f7!8m2!3d52.0980038!4d21.2656488!16s%2Fg%2F11c4bjtzfb!19sChIJQ0BiA2MqGUcR9-PxizFBYqA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SAIGON Kuchnia Orientalna",
+    "mapsUrl": "https://www.google.com/maps/place/SAIGON+Kuchnia+Orientalna/data=!4m7!3m6!1s0x47192b7c2b2816d3:0x41c54ebb6efe9362!8m2!3d52.1024646!4d21.2632968!16s%2Fg%2F11kjybsqdw!19sChIJ0xYoK3wrGUcRYpP-brtOxUE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Nadświdrzański bar mleczny",
+    "mapsUrl": "https://www.google.com/maps/place/Nad%C5%9Bwidrza%C5%84ski+bar+mleczny/data=!4m7!3m6!1s0x47192b0044b80c1d:0x2e5d5c91e495c3fd!8m2!3d52.105465!4d21.2605348!16s%2Fg%2F11xfpbd317!19sChIJHQy4RAArGUcR_cOV5JFcXS4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Plener Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Plener+Pizza/data=!4m7!3m6!1s0x47192b87564af561:0xe78a415f70e08!8m2!3d52.0978334!4d21.2680691!16s%2Fg%2F11q8y8nk0p!19sChIJYfVKVocrGUcRCA73FaR4DgA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dworek",
+    "mapsUrl": "https://www.google.com/maps/place/Dworek/data=!4m7!3m6!1s0x4718d5e3f3b099b5:0x8ec62aa87bdfb157!8m2!3d52.1307886!4d21.325936!16s%2Fg%2F11k4jd14vy!19sChIJtZmw8-PVGEcRV7Hfe6gqxo4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Willa Brzegi",
+    "mapsUrl": "https://www.google.com/maps/place/Willa+Brzegi/data=!4m7!3m6!1s0x47192b45bda96ae5:0x83a69d62e0b74cc3!8m2!3d52.1261508!4d21.2311141!16s%2Fg%2F11h2mgswgm!19sChIJ5WqpvUUrGUcRw0y34GKdpoM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SONO SUSHI",
+    "mapsUrl": "https://www.google.com/maps/place/SONO+SUSHI/data=!4m7!3m6!1s0x47192b47e99ea139:0xfeaf3b25fe496ccf!8m2!3d52.1064216!4d21.2452023!16s%2Fg%2F11h0xzp70l!19sChIJOaGe6UcrGUcRz2xJ_iU7r_4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar orientalny Lan Anh (zamów online na stronie internetowej)",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+orientalny+Lan+Anh+%28zam%C3%B3w+online+na+stronie+internetowej%29/data=!4m7!3m6!1s0x47192be4e961c093:0x4fccb7218cb57146!8m2!3d52.1079456!4d21.2609335!16s%2Fg%2F11nfw45yw8!19sChIJk8Bh6eQrGUcRRnG1jCG3zE8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Street Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Street+Pizza/data=!4m7!3m6!1s0x47192b34b83e7fd9:0x8e6935534580e1e5!8m2!3d52.106729!4d21.2624157!16s%2Fg%2F11g2wny7yw!19sChIJ2X8-uDQrGUcR5eGARVM1aY4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Am Am Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Am+Am+Kebab/data=!4m7!3m6!1s0x47192b2284e6e0a5:0x453423d59efd1cac!8m2!3d52.1049806!4d21.2624162!16s%2Fg%2F11w2fmzf4_!19sChIJpeDmhCIrGUcRrBz9ntUjNEU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Obiady Babci Lodzi",
+    "mapsUrl": "https://www.google.com/maps/place/Obiady+Babci+Lodzi/data=!4m7!3m6!1s0x47192a632d47abed:0xfb7407265e6b69d4!8m2!3d52.0971451!4d21.268201!16s%2Fg%2F11c453vk9m!19sChIJ7atHLWMqGUcR1GlrXiYHdPs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kurczak z rożna",
+    "mapsUrl": "https://www.google.com/maps/place/Kurczak+z+ro%C5%BCna/data=!4m7!3m6!1s0x47192b3ccf827359:0x20d6807b8f4a0163!8m2!3d52.1051117!4d21.2602137!16s%2Fg%2F11y3d5rc2w!19sChIJWXOCzzwrGUcRYwFKj3uA1iA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sushi Bistro",
+    "mapsUrl": "https://www.google.com/maps/place/Sushi+Bistro/data=!4m7!3m6!1s0x47192b5643b9c4dd:0x7e2cd1bc2cf2484e!8m2!3d52.1078464!4d21.258925!16s%2Fg%2F11pd1sh8wx!19sChIJ3cS5Q1YrGUcRTkjyLLzRLH4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Piekarnia Gruzińska",
+    "mapsUrl": "https://www.google.com/maps/place/Piekarnia+Gruzi%C5%84ska/data=!4m7!3m6!1s0x47192bdb41e4558b:0xcf8554e7be810d61!8m2!3d52.1076939!4d21.2618135!16s%2Fg%2F11h88sktsw!19sChIJi1XkQdsrGUcRYQ2BvudUhc8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Amit Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Amit+Kebab/data=!4m7!3m6!1s0x47192a8ca53a08df:0xd2e8bdd1be4a072e!8m2!3d52.1077024!4d21.2603343!16s%2Fg%2F11gcjl93_5!19sChIJ3wg6pYwqGUcRLgdKvtG96NI?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Lody bajeczne",
+    "mapsUrl": "https://www.google.com/maps/place/Lody+bajeczne/data=!4m7!3m6!1s0x47192bcb0aba044d:0x69983b4b61b3cea2!8m2!3d52.0972504!4d21.2681749!16s%2Fg%2F11gl4sh3m5!19sChIJTQS6CssrGUcRos6zYUs7mGk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Domowe Wyroby Garmażeryjne",
+    "mapsUrl": "https://www.google.com/maps/place/Domowe+Wyroby+Garma%C5%BCeryjne/data=!4m7!3m6!1s0x47192b8f4702c47b:0x7bee55f0da9d3fba!8m2!3d52.1176386!4d21.2497967!16s%2Fg%2F11ql8yy1wc!19sChIJe8QCR48rGUcRuj-d2vBV7ns?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Grota Fazir",
+    "mapsUrl": "https://www.google.com/maps/place/Grota+Fazir/data=!4m7!3m6!1s0x47192b0043ccf65b:0xe67f519a0cc5c675!8m2!3d52.1060503!4d21.2593478!16s%2Fg%2F11xrnf7fw5!19sChIJW_bMQwArGUcRdcbFDJpRf-Y?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Peperoncino Pizzeria",
+    "mapsUrl": "https://www.google.com/maps/place/Peperoncino+Pizzeria/data=!4m7!3m6!1s0x47192bc8bff60c27:0x69e016b44c8f75a3!8m2!3d52.0813756!4d21.2544042!16s%2Fg%2F11s7kss96j!19sChIJJwz2v8grGUcRo3WPTLQW4Gk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restaurants vivi",
+    "mapsUrl": "https://www.google.com/maps/place/Restaurants+vivi/data=!4m7!3m6!1s0x47192a8c80c3be95:0x40c1a819c4067394!8m2!3d52.1070579!4d21.2636887!16s%2Fg%2F11c1qrgnpg!19sChIJlb7DgIwqGUcRlHMGxBmowUA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "My Döner Kraft Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/My+D%C3%B6ner+Kraft+Kebab/data=!4m7!3m6!1s0x47192b563b111149:0xaa2e5e6fed60fe3a!8m2!3d52.10275!4d21.2632242!16s%2Fg%2F11nb_g4nyj!19sChIJSRERO1YrGUcROv5g7W9eLqo?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sala Bankietowa",
+    "mapsUrl": "https://www.google.com/maps/place/Sala+Bankietowa/data=!4m7!3m6!1s0x47192a6972279f13:0xee78d17826ae5737!8m2!3d52.0885419!4d21.2493116!16s%2Fg%2F11c2j742s2!19sChIJE58ncmkqGUcRN1euJnjReO4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dworek i Patio na Wodoktach",
+    "mapsUrl": "https://www.google.com/maps/place/Dworek+i+Patio+na+Wodoktach/data=!4m7!3m6!1s0x471929e28eed67c9:0x3fe3314036a4f7b8!8m2!3d52.0491767!4d21.230146!16s%2Fg%2F1tgtd70w!19sChIJyWftjuIpGUcRuPekNkAx4z8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Assala Kebab Otwock",
+    "mapsUrl": "https://www.google.com/maps/place/Assala+Kebab+Otwock/data=!4m7!3m6!1s0x471f2ab4aa0bedb7:0x2adc8b1b29bcf1e9!8m2!3d52.1318506!4d21.3404082!16s%2Fg%2F11cn95zgq_!19sChIJt-0LqrQqH0cR6fG8KRuL3Co?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Mimi Sushi",
+    "mapsUrl": "https://www.google.com/maps/place/Mimi+Sushi/data=!4m7!3m6!1s0x47192b69321c1ccb:0xc1b3a7466678318d!8m2!3d52.1056591!4d21.2608727!16s%2Fg%2F11h3c4mbwh!19sChIJyxwcMmkrGUcRjTF4Zkans8E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wieczorkowscy",
+    "mapsUrl": "https://www.google.com/maps/place/Wieczorkowscy/data=!4m7!3m6!1s0x47192a8b7d4ed5fb:0x4018fff8c38e6909!8m2!3d52.1071914!4d21.2619928!16s%2Fg%2F11c6vsw5_5!19sChIJ-9VOfYsqGUcRCWmOw_j_GEA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Plaża Świder",
+    "mapsUrl": "https://www.google.com/maps/place/Pla%C5%BCa+%C5%9Awider/data=!4m7!3m6!1s0x47192ae0b98ef6bd:0x8bd3cfc7113d030c!8m2!3d52.1244535!4d21.2379873!16s%2Fg%2F11f5brrcnq!19sChIJvfaOueAqGUcRDAM9EcfP04s?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Noclegi nad Świdrem",
+    "mapsUrl": "https://www.google.com/maps/place/Noclegi+nad+%C5%9Awidrem/data=!4m10!3m9!1s0x47192bdc17150b69:0x73c27fe5c3c7fe91!5m2!4m1!1i2!8m2!3d52.1260264!4d21.2541558!16s%2Fg%2F11rwh4k3bs!19sChIJaQsVF9wrGUcRkf7Hw-V_wnM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kantyna",
+    "mapsUrl": "https://www.google.com/maps/place/Kantyna/data=!4m7!3m6!1s0x47192be21be0653f:0x4e2d68a47af452ab!8m2!3d52.1221917!4d21.2781522!16s%2Fg%2F11kk5ycqbq!19sChIJP2XgG-IrGUcRq1L0eqRoLU4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Da Grasso",
+    "mapsUrl": "https://www.google.com/maps/place/Da+Grasso/data=!4m7!3m6!1s0x47192ba3a9bf4ef5:0xf30454e68e98b3f1!8m2!3d52.1047958!4d21.2623523!16s%2Fg%2F11x7rgdp9t!19sChIJ9U6_qaMrGUcR8bOYjuZUBPM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Nad jeziorem",
+    "mapsUrl": "https://www.google.com/maps/place/Nad+jeziorem/data=!4m7!3m6!1s0x47192b677d584b79:0xebb6a21e7d6b69d8!8m2!3d52.1368525!4d21.1882937!16s%2Fg%2F1td6wwbr!19sChIJeUtYfWcrGUcR2GlrfR6itus?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Alif kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Alif+kebab/data=!4m7!3m6!1s0x47192b61abd76a7b:0x6d23400ae00f3ea4!8m2!3d52.1056507!4d21.2597645!16s%2Fg%2F11vf57rw_t!19sChIJe2rXq2ErGUcRpD4P4ApAI20?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kaszmir Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Kaszmir+Kebab/data=!4m7!3m6!1s0x47192b3cc9539aa5:0x77ed1c7cbf83b9f9!8m2!3d52.1057324!4d21.260634!16s%2Fg%2F11g0g8v_rx!19sChIJpZpTyTwrGUcR-bmDv3wc7Xc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "U Zosi Obiady Domowe",
+    "mapsUrl": "https://www.google.com/maps/place/U+Zosi+Obiady+Domowe/data=!4m7!3m6!1s0x47192af32e0b54b9:0x4cb245ede63b71f9!8m2!3d52.109749!4d21.260462!16s%2Fg%2F11c5_mmkfh!19sChIJuVQLLvMqGUcR-XE75u1Fskw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shahi Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Shahi+Kebab/data=!4m7!3m6!1s0x47192a156dcd56ed:0x5e2babf9b25b5359!8m2!3d52.0815168!4d21.2402529!16s%2Fg%2F11fzf1hpfn!19sChIJ7VbNbRUqGUcRWVNbsvmrK14?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar Orientalny Lan Anh Bema 2",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+Orientalny+Lan+Anh+Bema+2/data=!4m7!3m6!1s0x47192a6c2b98d41d:0xdda9ff695a5a40dd!8m2!3d52.0856698!4d21.2574274!16s%2Fg%2F11c7190b8x!19sChIJHdSYK2wqGUcR3UBaWmn_qd0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Al Hossain kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Al+Hossain+kebab/data=!4m7!3m6!1s0x47192b00187ff37f:0x74094c7e33ed01d0!8m2!3d52.1023039!4d21.2633431!16s%2Fg%2F11lcrymz41!19sChIJf_N_GAArGUcR0AHtM35MCXQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dom Weselny",
+    "mapsUrl": "https://www.google.com/maps/place/Dom+Weselny/data=!4m7!3m6!1s0x4718d52fd13cb855:0xa744293e318e12fa!8m2!3d52.1314582!4d21.325514!16s%2Fg%2F11twc1zgy5!19sChIJVbg80S_VGEcR-hKOMT4pRKc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "SKLEP ZIELARSKI Galeria Kupiecka Otwock",
+    "mapsUrl": "https://www.google.com/maps/place/SKLEP+ZIELARSKI+Galeria+Kupiecka+Otwock/data=!4m7!3m6!1s0x47192a8b1a7764ed:0xe64647c36a2ab798!8m2!3d52.1083809!4d21.2609077!16s%2Fg%2F1ts3jz8_!19sChIJ7WR3GosqGUcRmLcqasNHRuY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Holiday Inn Resort Warszawa Józefów",
+    "mapsUrl": "https://www.google.com/maps/place/Holiday+Inn+Resort+Warszawa+J%C3%B3zef%C3%B3w/data=!4m10!3m9!1s0x471ed4bd481bf34f:0xa3734a7a7553f712!5m2!4m1!1i2!8m2!3d52.1227953!4d21.234515!16s%2Fg%2F1tdkkzhr!19sChIJT_MbSL3UHkcREvdTdXpKc6M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sklep Firmowy - Masarnia Lubice",
+    "mapsUrl": "https://www.google.com/maps/place/Sklep+Firmowy+-+Masarnia+Lubice/data=!4m7!3m6!1s0x47192b54b8dddaa3:0xdd433ddc4bd02679!8m2!3d52.1025498!4d21.263827!16s%2Fg%2F11h0_9xkmz!19sChIJo9rduFQrGUcReSbQS9w9Q90?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Fazir Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Fazir+Kebab/data=!4m7!3m6!1s0x47192b001bdac96d:0x788fccd43d8e6ab9!8m2!3d52.1060627!4d21.259368!16s%2Fg%2F11xtgpcbjx!19sChIJbcnaGwArGUcRuWqOPdTMj3g?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "kwiaciarnia - Maciej Znicze",
+    "mapsUrl": "https://www.google.com/maps/place/kwiaciarnia+-+Maciej+Znicze/data=!4m7!3m6!1s0x47192a7cf4634b0d:0x3f405a2880ca9866!8m2!3d52.0959977!4d21.2713611!16s%2Fg%2F11gfxkfyfp!19sChIJDUtj9HwqGUcRZpjKgChaQD8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Metross",
+    "mapsUrl": "https://www.google.com/maps/place/Metross/data=!4m7!3m6!1s0x47192af7b5295a99:0x37e35f994907d89e!8m2!3d52.1064237!4d21.2454341!16s%2Fg%2F11cn2mg0j7!19sChIJmVoptfcqGUcRntgHSZlf4zc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "GLASS RESIDENCE",
+    "mapsUrl": "https://www.google.com/maps/place/GLASS+RESIDENCE/data=!4m10!3m9!1s0x471f2ba3e1ed99f3:0xa39b404a6656bbfb!5m2!4m1!1i2!8m2!3d52.1405555!4d21.355588!16s%2Fg%2F11swzp45bg!19sChIJ85nt4aMrH0cR-7tWZkpAm6M?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bafra Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Bafra+Kebab/data=!4m7!3m6!1s0x47192bae54aa7b65:0xc3d892a4cb1205cd!8m2!3d52.0928667!4d21.2411797!16s%2Fg%2F11ms8753x2!19sChIJZXuqVK4rGUcRzQUSy6SS2MM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192bb99d44473b:0x5429358be683b57d!8m2!3d52.102502!4d21.2658181!16s%2Fg%2F11tjyxbmld!19sChIJO0dEnbkrGUcRfbWD5os1KVQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Otwock Wielki",
+    "mapsUrl": "https://www.google.com/maps/place/Otwock+Wielki/data=!4m7!3m6!1s0x4718d61d652537b7:0xfe434c4fd24c7636!8m2!3d52.0471121!4d21.2465832!16s%2Fm%2F04q3myx!19sChIJtzclZR3WGEcRNnZM0k9MQ_4?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Biuro Podróży Wakacje.pl Otwock-Kupiecka",
+    "mapsUrl": "https://www.google.com/maps/place/Biuro+Podr%C3%B3%C5%BCy+Wakacje.pl+Otwock-Kupiecka/data=!4m7!3m6!1s0x47192b39fd20630f:0x18ac43c328d91fc5!8m2!3d52.1079137!4d21.2598245!16s%2Fg%2F11jfd2t4pf!19sChIJD2Mg_TkrGUcRxR_ZKMNDrBg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Mięso do kebaba - Kasper Dystrybucja Mięs Grzegorz Kasprowicz",
+    "mapsUrl": "https://www.google.com/maps/place/Mi%C4%99so+do+kebaba+-+Kasper+Dystrybucja+Mi%C4%99s+Grzegorz+Kasprowicz/data=!4m7!3m6!1s0x47192b18138466e1:0x294e44507d1eea51!8m2!3d52.0984398!4d21.2413917!16s%2Fg%2F11y1r09c79!19sChIJ4WaEExgrGUcRUeoefVBETik?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Tanioch",
+    "mapsUrl": "https://www.google.com/maps/place/Tanioch/data=!4m7!3m6!1s0x47192af64994f1e1:0x70f954ac0415eccd!8m2!3d52.1063524!4d21.2458815!16s%2Fg%2F11g9r7srrn!19sChIJ4fGUSfYqGUcRzewVBKxU-XA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar VIET THAI",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+VIET+THAI/data=!4m7!3m6!1s0x47192b00298f4df1:0xdbfc763e9e611b6e!8m2!3d52.0812487!4d21.2407789!16s%2Fg%2F11xd9pshx3!19sChIJ8U2PKQArGUcRbhthnj52_Ns?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar 56",
+    "mapsUrl": "https://www.google.com/maps/place/Bar+56/data=!4m7!3m6!1s0x4718d5490bb2ced5:0xb17bb0cd6f754d15!8m2!3d52.1245904!4d21.3382846!16s%2Fg%2F11f40461np!19sChIJ1c6yC0nVGEcRFU11b82we7E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Circle K",
+    "mapsUrl": "https://www.google.com/maps/place/Circle+K/data=!4m7!3m6!1s0x471f2ab4a7f8fe87:0x70c6e94d088af770!8m2!3d52.1320711!4d21.340586!16s%2Fg%2F1tczz87k!19sChIJh_74p7QqH0cRcPeKCE3pxnA?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Bar",
+    "mapsUrl": "https://www.google.com/maps/place/Bar/data=!4m7!3m6!1s0x47192b5c0622690b:0x15a5ad1a6554e0d!8m2!3d52.1240898!4d21.2374131!16s%2Fg%2F11fmzghy_k!19sChIJC2kiBlwrGUcRDU5VptFaWgE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja LunaSol",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+LunaSol/data=!4m7!3m6!1s0x47192b1e97a4425f:0x26683315070fa05f!8m2!3d52.122784!4d21.234373!16s%2Fg%2F1tdy36mh!19sChIJX0Kklx4rGUcRX6APBxUzaCY?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shell",
+    "mapsUrl": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x47192b0906d70207:0x5cdd88e372f5b6fd!8m2!3d52.11703!4d21.27798!16s%2Fg%2F11x5n5kfnc!19sChIJBwLXBgkrGUcR_bb1cuOI3Vw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Tandem Bar",
+    "mapsUrl": "https://www.google.com/maps/place/Tandem+Bar/data=!4m7!3m6!1s0x47192b9c46340e05:0xfc3d83ad7d782df4!8m2!3d52.1132335!4d21.1827202!16s%2Fg%2F11bzsz_9ss!19sChIJBQ40RpwrGUcR9C14fa2DPfw?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Don Pastro Street Food - Franczyza",
+    "mapsUrl": "https://www.google.com/maps/place/Don+Pastro+Street+Food+-+Franczyza/data=!4m7!3m6!1s0x47192b46e4075def:0x132ffa2e58a2f152!8m2!3d52.1040184!4d21.2479456!16s%2Fg%2F11vq0b8q82!19sChIJ710H5EYrGUcRUvGiWC76LxM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Good Lood – lody rzemieślnicze",
+    "mapsUrl": "https://www.google.com/maps/place/Good+Lood+%E2%80%93+lody+rzemie%C5%9Blnicze/data=!4m7!3m6!1s0x47192bd729aa5c71:0xc79cb27fb994518e!8m2!3d52.1264058!4d21.2348144!16s%2Fg%2F11px840jf7!19sChIJcVyqKdcrGUcRjlGUuX-ynMc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizza Hut Otwock Galeria Kupiecka",
+    "mapsUrl": "https://www.google.com/maps/place/Pizza+Hut+Otwock+Galeria+Kupiecka/data=!4m7!3m6!1s0x47192bde5cbeb21f:0xf6933e363dfe1f13!8m2!3d52.1078406!4d21.2596798!16s%2Fg%2F11sbwr8tm5!19sChIJH7K-XN4rGUcREx_-PTY-k_Y?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pizza z Radości Józefów",
+    "mapsUrl": "https://www.google.com/maps/place/Pizza+z+Rado%C5%9Bci+J%C3%B3zef%C3%B3w/data=!4m7!3m6!1s0x47192b24024163c1:0x230bfdd417e6bf28!8m2!3d52.1344476!4d21.2373841!16s%2Fg%2F11clvx2873!19sChIJwWNBAiQrGUcRKL_mF9T9CyM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Sklep u „Gołębia”",
+    "mapsUrl": "https://www.google.com/maps/place/Sklep+u+%E2%80%9EGo%C5%82%C4%99bia%E2%80%9D/data=!4m7!3m6!1s0x47192b71e4d50fc7:0xed6fbbba368ae81e!8m2!3d52.1002205!4d21.2744421!16s%2Fg%2F11gmw3f_8l!19sChIJxw_V5HErGUcRHuiKNrq7b-0?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192b23eb05b941:0xe1c463fbe6b889e5!8m2!3d52.111446!4d21.262159!16s%2Fg%2F11rjbdltr_!19sChIJQbkF6yMrGUcR5Ym45vtjxOE?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja McDonald's",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+McDonald%27s/data=!4m7!3m6!1s0x47192bcdef947e11:0xd7e0490d5088e5d8!8m2!3d52.127783!4d21.2397091!16s%2Fg%2F11gxmvtfmp!19sChIJEX6U780rGUcR2OWIUA1J4Nc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Soprano pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Soprano+pizza/data=!4m7!3m6!1s0x47192a6b578cfaaf:0xa3e4890a23f3c220!8m2!3d52.0824526!4d21.2481095!16s%2Fg%2F1vqmh2_h!19sChIJr_qMV2sqGUcRIMLzIwqJ5KM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Foodbox Kebab",
+    "mapsUrl": "https://www.google.com/maps/place/Foodbox+Kebab/data=!4m7!3m6!1s0x47192b17dc0d97c9:0xb80daab2e5129a05!8m2!3d52.1312066!4d21.22325!16s%2Fg%2F11c2np35tm!19sChIJyZcN3BcrGUcRBZoS5bKqDbg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Restauracja La Repubblica Ristorante",
+    "mapsUrl": "https://www.google.com/maps/place/Restauracja+La+Repubblica+Ristorante/data=!4m7!3m6!1s0x471ed4b300ed6e6b:0x9f8206c30e9de868!8m2!3d52.158132!4d21.215849!16s%2Fg%2F1pt_bj1q1!19sChIJa27tALPUHkcRaOidDsMGgp8?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Dio Mio Pizza",
+    "mapsUrl": "https://www.google.com/maps/place/Dio+Mio+Pizza/data=!4m7!3m6!1s0x47192b007435f951:0x88cec85cab343cbd!8m2!3d52.0974209!4d21.2701988!16s%2Fg%2F11yf27qp31!19sChIJUfk1dAArGUcRvTw0q1zIzog?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Shell",
+    "mapsUrl": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x47192a71e0285021:0x78ff167677f046db!8m2!3d52.086692!4d21.259876!16s%2Fg%2F1hf43xrl_!19sChIJIVAo4HEqGUcR20bwd3YW_3g?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192b4471a3f869:0x584802cbb88f6dc7!8m2!3d52.1095661!4d21.2884189!16s%2Fg%2F11x_6qk8td!19sChIJafijcUQrGUcRx22PuMsCSFg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Hotel Relaks",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+Relaks/data=!4m7!3m6!1s0x4718d4c501b65847:0x8dc7d717833daaa7!8m2!3d52.1089135!4d21.3868817!16s%2Fg%2F1wfvldgd!19sChIJR1i2AcXUGEcRp6o9gxfXx40?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Pas startowy dla ULM",
+    "mapsUrl": "https://www.google.com/maps/place/Pas+startowy+dla+ULM/data=!4m7!3m6!1s0x47192a3eae694679:0xcc633dc2f86cf2ba!8m2!3d52.0806626!4d21.2296343!16s%2Fg%2F11gdz79t41!19sChIJeUZprj4qGUcRuvJs-MI9Y8w?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "KFC Józefów",
+    "mapsUrl": "https://www.google.com/maps/place/KFC+J%C3%B3zef%C3%B3w/data=!4m7!3m6!1s0x47192ae019255fff:0x6bb0592d7e4fb22d!8m2!3d52.1267164!4d21.2404347!16s%2Fg%2F11f29z_p53!19sChIJ_18lGeAqGUcRLbJPfi1ZsGs?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192b656f1ae403:0x945f20bf8693015e!8m2!3d52.1068524!4d21.2343459!16s%2Fg%2F11fr76_ld9!19sChIJA-Qab2UrGUcRXgGThr8gX5Q?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Wheeler. Sklep rowerowy",
+    "mapsUrl": "https://www.google.com/maps/place/Wheeler.+Sklep+rowerowy/data=!4m7!3m6!1s0x47192a8b59508b75:0x73983b4dc0a5a1b!8m2!3d52.1073749!4d21.2609188!16s%2Fg%2F1tcvn08s!19sChIJdYtQWYsqGUcRG1oK3LSDOQc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192b2b752f431d:0x74447394bbd0e03b!8m2!3d52.1038935!4d21.2645978!16s%2Fg%2F11lzl_mgkd!19sChIJHUMvdSsrGUcRO-DQu5RzRHQ?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192bd4162e2cf3:0x51f7e1d5c2e91d16!8m2!3d52.066974!4d21.2571962!16s%2Fg%2F11wy9vkp5x!19sChIJ8ywuFtQrGUcRFh3pwtXh91E?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Gospoda Zalewajka",
+    "mapsUrl": "https://www.google.com/maps/place/Gospoda+Zalewajka/data=!4m7!3m6!1s0x47192952bfe2f689:0x7769f2b5a3d06cff!8m2!3d52.0726381!4d21.1294825!16s%2Fg%2F11b7b_hz6l!19sChIJifbiv1IpGUcR_2zQo7XyaXc?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192bdcd51e4d49:0x73dce26bd78e63c0!8m2!3d52.1214263!4d21.2451226!16s%2Fg%2F11xmrbpvs0!19sChIJSU0e1dwrGUcRwGOO12vi3HM?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192bc793d9484b:0x987c06f19a5e5e73!8m2!3d52.0966067!4d21.2470825!16s%2Fg%2F11j8pgh8zs!19sChIJS0jZk8crGUcRc15emvEGfJg?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x4718d5aca879b051:0x59555a04d3584dd6!8m2!3d52.1153293!4d21.3541008!16s%2Fg%2F11xtrp4mr9!19sChIJUbB5qKzVGEcR1k1Y0wRaVVk?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192b55514b304b:0x2578891430870f90!8m2!3d52.1002823!4d21.2645131!16s%2Fg%2F11lydqh9t_!19sChIJSzBLUVUrGUcRkA-HMBSJeCU?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Kuźnia Smaku/Pizza Premium",
+    "mapsUrl": "https://www.google.com/maps/place/Ku%C5%BAnia+Smaku%2FPizza+Premium/data=!4m7!3m6!1s0x47192b005d408b87:0x49fcf1036cb8b561!8m2!3d52.1057206!4d21.2607756!16s%2Fg%2F11wqzljp6x!19sChIJh4tAXQArGUcRYbW4bAPx_Ek?authuser=0&hl=pl&rclk=1"
+  },
+  {
+    "name": "Żabka | Prosto z pieca",
+    "mapsUrl": "https://www.google.com/maps/place/%C5%BBabka+%7C+Prosto+z+pieca/data=!4m7!3m6!1s0x47192b1f7ad639cf:0x8f6a347a5eeeeae5!8m2!3d52.0954068!4d21.2709762!16s%2Fg%2F11nxqmhl4g!19sChIJzznWeh8rGUcR5eruXno0ao8?authuser=0&hl=pl&rclk=1"
+  }
+]

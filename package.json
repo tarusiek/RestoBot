@@ -7,9 +7,12 @@
         "scrape": "node scripts/scraper/scraper.js",
         "enrich": "node scripts/enrichment/enrich.js",
         "analyze": "node scripts/analyzer/analyze.js",
-        "messages": "node scripts/messaging/messages.js",
         "outreach": "node scripts/outreach/outreach.js",
-        "clean": "node scripts/utils/clean-data.js"
+        "clean": "node scripts/utils/clean-data.js",
+        "filter": "node scripts/analyzer/filter-no-website.js",
+        "contacts": "node scripts/analyzer/contactable-leads.js",
+        "premium": "node scripts/analyzer/premium-leads.js",
+        "messages": "node scripts/messaging/messages.js"
     },
     "dependencies": {
         "axios": "^1.7.2",

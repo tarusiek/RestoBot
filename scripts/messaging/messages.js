@@ -1,46 +1,182 @@
 import fs from "fs";
+import xlsx from "xlsx";
 
-const INPUT = "data/processed/enriched-leads.json";
-const OUTPUT = "data/exports/messages.txt";
+const INPUT_FILE =
+    "outputs/premium-leads.json";
 
-const leads = JSON.parse(fs.readFileSync(INPUT, "utf-8"));
+const OUTPUT_JSON =
+    "outputs/ready-outreach.json";
+
+const OUTPUT_XLSX =
+    "outputs/ready-outreach.xlsx";
+
+function detectRestaurantType(name) {
+    const n =
+        name.toLowerCase();
+
+    if (
+        n.includes("pizza")
+    ) {
+        return "pizzeria";
+    }
+
+    if (
+        n.includes("sushi")
+    ) {
+        return "sushi";
+    }
+
+    if (
+        n.includes("burger")
+    ) {
+        return "burgerownia";
+    }
+
+    if (
+        n.includes("cocktail") ||
+        n.includes("bar")
+    ) {
+        return "cocktail bar";
+    }
+
+    return "restauracja";
+}
+
+function generatePrice(score) {
+    if (score >= 100) {
+        return "2500–4000 zł";
+    }
+
+    if (score >= 85) {
+        return "2000–3500 zł";
+    }
+
+    return "1500–3000 zł";
+}
 
 function generateMessage(lead) {
-    return `
-========================================
-RESTAURACJA: ${lead.query}
-========================================
+    const type =
+        detectRestaurantType(
+            lead.name
+        );
 
-Dzień dobry,
+    const price =
+        generatePrice(
+            lead.score
+        );
 
-trafiłem na ${lead.query} podczas analizy restauracji w Państwa okolicy.
+    return `Dzień dobry,
 
-Zauważyłem, że marka ma potencjał wizualny, natomiast obecność online mogłaby znacznie lepiej oddawać klimat restauracji i skuteczniej konwertować nowych klientów — szczególnie na urządzeniach mobilnych.
+trafiłem na ${lead.name} podczas przeglądania restauracji w okolicy.
 
-Projektuję nowoczesne strony internetowe premium dla restauracji:
-- nowoczesny design dopasowany do charakteru lokalu
-- pełna optymalizacja mobilna
-- szybkie działanie i SEO
-- integracje rezerwacji oraz social media
-- spójny branding z Instagramem i materiałami wizualnymi
+Zauważyłem, że lokal ma bardzo dobry potencjał wizualny i brandingowy, natomiast prawdopodobnie nie posiada nowoczesnej strony internetowej dopasowanej pod urządzenia mobilne oraz aktualne standardy wyszukiwania Google.
 
-W wielu przypadkach dobrze zaprojektowana strona znacząco poprawia:
-- liczbę rezerwacji
-- wiarygodność marki
-- pozycjonowanie lokalne
-- skuteczność reklam i Instagrama
+Obecnie dla wielu klientów pierwszym kontaktem z restauracją jest właśnie strona internetowa — jeszcze przed wizytą na miejscu czy sprawdzeniem menu. Profesjonalna strona znacząco zwiększa wiarygodność lokalu, poprawia pierwsze wrażenie i pomaga przyciągać nowych klientów, szczególnie z Google Maps i wyszukiwania mobilnego.
 
-Jeżeli temat byłby dla Państwa interesujący, mogę przygotować niezobowiązujący przykładowy koncept wizualny dopasowany konkretnie pod ${lead.query}.
+Projektuję nowoczesne strony premium dla lokali gastronomicznych:
+- menu online,
+- galerie dań/drinków,
+- integracja z Instagramem,
+- nowoczesny design,
+- szybkie ładowanie,
+- pełna wersja mobilna,
+- możliwość późniejszego dodawania promocji lub aktualizacji menu.
+
+Najczęściej realizuję projekty dla lokali typu ${type} w budżetach około ${price}, zwykle poniżej standardowych cen agencji interaktywnych.
+
+Mogę przygotować projekt dopasowany konkretnie pod charakter Państwa lokalu — tak, aby całość wyglądała nowocześnie, profesjonalnie i wyróżniała restaurację na tle konkurencji.
 
 Pozdrawiam
+Michał Tarka
 `;
 }
 
-const messages = leads.map(generateMessage);
+function main() {
+    console.log("\n========================");
+    console.log("MESSAGES GENERATOR");
+    console.log("========================");
 
-fs.writeFileSync(
-    OUTPUT,
-    messages.join("\n\n")
-);
+    const raw =
+        fs.readFileSync(
+            INPUT_FILE,
+            "utf-8"
+        );
 
-console.log(`Generated ${messages.length} professional messages`);
+    const leads =
+        JSON.parse(raw);
+
+    console.log(
+        `[INPUT] ${leads.length}`
+    );
+
+    const results =
+        leads.map(lead => {
+            return {
+                city: lead.city,
+                name: lead.name,
+                score: lead.score,
+
+                instagram:
+                    lead.instagram,
+
+                facebook:
+                    lead.facebook,
+
+                phone:
+                    lead.phone,
+
+                address:
+                    lead.address,
+
+                primaryContact:
+                    lead.primaryContact,
+
+                message:
+                    generateMessage(
+                        lead
+                    )
+            };
+        });
+
+    fs.writeFileSync(
+        OUTPUT_JSON,
+        JSON.stringify(
+            results,
+            null,
+            2
+        )
+    );
+
+    const workbook =
+        xlsx.utils.book_new();
+
+    const worksheet =
+        xlsx.utils.json_to_sheet(
+            results
+        );
+
+    xlsx.utils.book_append_sheet(
+        workbook,
+        worksheet,
+        "Outreach"
+    );
+
+    xlsx.writeFile(
+        workbook,
+        OUTPUT_XLSX
+    );
+
+    console.log(
+        `[JSON] ${OUTPUT_JSON}`
+    );
+
+    console.log(
+        `[XLSX] ${OUTPUT_XLSX}`
+    );
+
+    console.log("\n========================");
+    console.log("DONE");
+    console.log("========================");
+}
+
+main();

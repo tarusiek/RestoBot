@@ -12,12 +12,19 @@
         "filter": "node scripts/analyzer/filter-no-website.js",
         "contacts": "node scripts/analyzer/contactable-leads.js",
         "premium": "node scripts/analyzer/premium-leads.js",
-        "messages": "node scripts/messaging/messages.js"
+        "messages": "node scripts/messaging/messages.js",
+        "start": "node orchestrator/index.js"
     },
     "dependencies": {
         "axios": "^1.7.2",
+        "chalk": "^5.6.2",
         "cheerio": "^1.0.0",
-        "dotenv": "^16.4.5",
+        "dotenv": "^16.6.1",
+        "framer-motion": "^12.38.0",
+        "fs-extra": "^11.3.5",
+        "inquirer": "^13.4.2",
+        "lucide-react": "^1.14.0",
+        "ora": "^9.4.0",
         "playwright": "^1.54.1",
         "xlsx": "^0.18.5"
     }
